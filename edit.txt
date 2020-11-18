@@ -1,0 +1,7 @@
+        return RssFeed(channel= str(channel),title= str(feed_title), link= str(feed_link),mediatitle= str(media_title), author= str(feed_author), description= str(feed_description),
+                       categories= str(str(feed_categories)), comments= str(feed_comments), enclosure= str(feed_enclosure), guid= str(feed_guid),
+                       pubDate= str(feed_pubdate), source= str(feed_source), atomelink= str(feed_atome),
+                       contentencoded= str(feed_contentencoded), dccreator= str(dc_creators), slashcomments= str(feed_slash_comments),
+                       creativeCommonslicense= str(feed_creativeCommons), mediacontent= str(media_content),
+                       mediaratings= str(media_rating), mediasubTitle= str(media_subTitle), mediapeerLink= str(media_peerLink),
+                       mediarights= str(media_rights), mediascenes= str(str(media_scenes)),mediadescription= str(media_description),mediakeywords= str(media_keywords),mediathumbnails= str(media_thumbnails),mediacategory= str(media_category),mediahash= str(media_hash), mediaplayer= str(media_player),mediacredit= str(media_credit),mediacopyright= str(media_copyright),mediatext= str(media_text),mediarestriction= str(media_restriction),mediacommunities= str(media_community),mediacomments= str(media_comments),mediaembed= str(media_embed),mediaresponses= str(media_responses),mediabackLinks= str(media_backLinks),mediastatus= str(media_status),mediaprice= str(media_price),medialicense= str(media_license), dctermsvalid= str("{}")

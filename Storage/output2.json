@@ -1,0 +1,1979 @@
+[
+  {
+    "STARTRSSCHANNELSSCRAPINGurl": [
+      'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+      'https://rss.nytimes.com/services/xml/rss/nyt/es.xml'
+    ]
+  },
+  {
+    "ENDSCRAPINGDATA": {
+      'urls': [
+        'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+        'https://rss.nytimes.com/services/xml/rss/nyt/es.xml'
+      ],
+      'total_feeds': [],
+      'total_externallinks': []
+    }
+  },
+  {
+    "FEEDSSCRAPEDFROM": {
+      'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+      'title': 'NYT > The New York Times en Español',
+      'websitelink': 'https://www.nytimes.com/es/',
+      'description': '',
+      'language': 'en-us',
+      'copyright': 'Copyright 2020 The New York Times Company',
+      'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+      'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+      'image': {
+        'link': 'https://www.nytimes.com/es/',
+        'title': 'NYT > The New York Times en Español',
+        'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+        'description': '',
+        'width': '',
+        'height': ''
+      },
+      'categories': [],
+      'cloud': {},
+      'docs': '',
+      'generator': '',
+      'managingeditor': '',
+      'rating': '',
+      'skipdays': [],
+      'ttl': '',
+      'webmaster': '',
+      'skiphours': [],
+      'textinput': {
+      }
+    }
+  },
+  [
+    {
+      'title': '‘Es demasiado’: el aprendizaje a distancia está llevando a los padres al límite',
+      'description': 'Para los adultos en la casa, tratar de hacer su propio trabajo mientras ayudan a los niños con sus tareas se ha convertido en uno de los mayores desafíos de la pandemia.',
+      'link': 'https://www.nytimes.com/es/2020/05/01/espanol/escuela-casa-coronavirus.html',
+      'pubdate': 'Fri, 01 May 2020 18:00:09 +0000'
+    },
+    {
+      'title': '¿Se convertirá Sérgio Moro en el verdugo de Bolsonaro?',
+      'description': 'La ruidosa renuncia del exministro lo convierte en un actor político de primera fila y potencial rival del presidente brasileño en las elecciones de 2022.',
+      'link': 'https://www.nytimes.com/es/2020/05/01/espanol/opinion/moro-bolsonaro-coronavirus-brasil.html',
+      'pubdate': 'Fri, 01 May 2020 14:00:04 +0000'
+    },
+    {
+      'title': 'Es tu ex o nadie',
+      'description': 'Mi novio terminó conmigo al iniciar la cuarentena. ¿Cuáles son las reglas de una pareja de pandemia?',
+      'link': 'https://www.nytimes.com/es/2020/05/01/espanol/estilos-de-vida/rompimiento-amoroso-cuarentena.html',
+      'pubdate': 'Fri, 01 May 2020 15:00:03 +0000'
+    },
+    {
+      'title': 'A pesar del aumento de empleados contagiados, Estados Unidos presiona a México para que permita que las plantas estadounidenses sigan abiertas',
+      'description': 'Empresas multinacionales con fábricas en México han permanecido abiertas, incluso después de que se presentaron casos del coronavirus en sus instalaciones.',
+      'link': 'https://www.nytimes.com/es/2020/05/01/espanol/mexico-fabricas-estados-unidos.html',
+      'pubdate': 'Sat, 02 May 2020 01:03:40 +0000'
+    },
+    {
+      'title': '¿El virus está en mi ropa? ¿En mis zapatos? ¿En mi pelo? ¿En mi periódico?',
+      'description': 'Preguntamos a los expertos sobre todos los lugares donde el coronavirus acecha (o no). Te sentirás mejor después de leer esto.',
+      'link': 'https://www.nytimes.com/es/2020/04/21/espanol/estilos-de-vida/coronavirus-ropa-contagio-pelo-zapatos-periodico-infeccion.html',
+      'pubdate': 'Thu, 23 Apr 2020 21:39:27 +0000'
+    },
+    {
+      'title': '¿Cuál es el mejor material para un cubrebocas?',
+      'description': 'Los científicos han probado artículos de uso diario para encontrar la mejor opción que nos proteja contra el coronavirus. Fundas de almohadas, franela y bolsas de aspiradora plegadas estilo origami son algunas candidatas.',
+      'link': 'https://www.nytimes.com/es/2020/04/18/espanol/material-mascarillas-virus.html',
+      'pubdate': 'Sat, 18 Apr 2020 14:00:06 +0000'
+    },
+    {
+      'title': 'Cómo hacer mascarillas para coronavirus',
+      'description': 'Barbijos, cubrebocas, tapabocas, nasobucos. En este tutorial te decimos cómo confeccionar tu propia mascarilla de tela con materiales domésticos fáciles de conseguir.',
+      'link': 'https://www.nytimes.com/es/article/como-hacer-mascarillas.html',
+      'pubdate': 'Fri, 03 Apr 2020 23:21:48 +0000'
+    },
+    {
+      'title': 'Aborto por telemedicina: una opción cada vez más frecuente mientras disminuye el acceso a las clínicas',
+      'description': 'El coronavirus ha generado un aumento en la demanda de la telemedicina de todo tipo, incluido un programa para interrumpir embarazos en Estados Unidos.',
+      'link': 'https://www.nytimes.com/es/2020/05/01/espanol/ciencia-y-tecnologia/aborto-telemedicina.html',
+      'pubdate': 'Fri, 01 May 2020 13:00:07 +0000'
+    },
+    {
+      'title': 'Trabajar sin recibir aplausos',
+      'description': 'Ataques a enfermeras, trap en quechua y un proyecto para el fin de semana.',
+      'link': 'https://www.nytimes.com/es/2020/05/01/espanol/trabajar-sin-recibir-aplausos.html',
+      'pubdate': 'Fri, 01 May 2020 10:00:01 +0000'
+    },
+    {
+      'title': 'En Perú el virus provoca que miles de personas regresen al campo',
+      'description': 'El miedo al coronavirus y la pérdida de empleos en las ciudades están empujando a muchos peruanos a volver a las zonas rurales, lo que ha generado preocupación sobre una crisis de salud pública en el campo.',
+      'link': 'https://www.nytimes.com/es/2020/04/30/espanol/america-latina/peru-virus-migracion-caminantes.html',
+      'pubdate': 'Thu, 30 Apr 2020 23:10:29 +0000'
+    },
+    {
+      'title': 'Galletas deliciosas de tres ingredientes que seguro tienes en la despensa',
+      'description': 'Hornea estos dulces tentempiés de manera simple y sin complicaciones.',
+      'link': 'https://www.nytimes.com/es/2020/04/30/espanol/estilos-de-vida/galletas-faciles-receta.html',
+      'pubdate': 'Thu, 30 Apr 2020 14:00:05 +0000'
+    },
+    {
+      'title': '‘Te faltó un pedazo’: evita estos errores al cortarle el pelo a tu perro',
+      'description': 'Acicalar a tu mascota en casa no es tan simple. Te decimos cómo hacerlo si estás en cuarentena y no puedes salir.',
+      'link': 'https://www.nytimes.com/es/2020/04/30/espanol/estilos-de-vida/tutorial-rapar-perro-cuarentena.html',
+      'pubdate': 'Thu, 30 Apr 2020 09:00:22 +0000'
+    },
+    {
+      'title': 'Los pueblos de España libran una batalla solitaria contra el coronavirus',
+      'description': 'El aislamiento del campo ofrece cierta protección contra el brote, pero una vez que la enfermedad ataca, puede revelar vulnerabilidades que solo enfrentan las comunidades más pequeñas.',
+      'link': 'https://www.nytimes.com/es/2020/04/29/espanol/mundo/coronavirus-espana.html',
+      'pubdate': 'Wed, 29 Apr 2020 21:43:13 +0000'
+    },
+    {
+      'title': '¿Qué es un oxímetro de pulso?¿De verdad necesito uno en casa?',
+      'description': 'Un pequeño dispositivo para la punta de los dedos puede darte información valiosa sobre tu salud durante un episodio de COVID-19 o cualquier enfermedad respiratoria.',
+      'link': 'https://www.nytimes.com/es/2020/04/29/espanol/estilos-de-vida/oximetro-para-que-sirve.html',
+      'pubdate': 'Wed, 29 Apr 2020 19:54:06 +0000'
+    },
+    {
+      'title': 'Estrategias para lidiar con tu soledad',
+      'description': '¿Te sientes solo? Hay muchos en la misma situación. Aquí algunas ideas que pueden ayudar.',
+      'link': 'https://www.nytimes.com/es/2020/04/29/espanol/estilos-de-vida/soledad-cuarentena-encierro.html',
+      'pubdate': 'Wed, 29 Apr 2020 18:23:59 +0000'
+    },
+    {
+      'title': '‘Miedo de ser enfermera’: Los trabajadores de la salud están bajo ataque',
+      'description': 'Estigmatizados como focos de contagio en algunos países, los trabajadores de la salud han sido agredidos, maltratados y marginados.',
+      'link': 'https://www.nytimes.com/es/2020/04/28/espanol/mundo/ataques-enfermeras-medicos-virus.html',
+      'pubdate': 'Wed, 29 Apr 2020 00:35:08 +0000'
+    },
+    {
+      'title': 'Renata Flores: la reina del trap en quechua',
+      'description': 'Renata Flores, de 19 años, es parte de una generación de músicos peruanos que combinan los ritmos del trap, el rap y el reguetón con los sonidos y el lenguaje del campo andino.',
+      'link': 'https://www.nytimes.com/es/2020/04/28/espanol/renata-flores-quechua-trap.html',
+      'pubdate': 'Wed, 29 Apr 2020 00:00:35 +0000'
+    },
+    {
+      'title': 'El coronavirus ataca las cárceles y cientos de miles de presos son liberados',
+      'description': 'El virus se ha propagado rápidamente en prisiones sobrepobladas en el mundo, lo que ha llevado a los gobiernos a liberar a los reclusos en masa.',
+      'link': 'https://www.nytimes.com/es/2020/04/28/espanol/america-latina/carceles-coronavirus-contagio.html',
+      'pubdate': 'Tue, 28 Apr 2020 16:38:31 +0000'
+    },
+    {
+      'title': 'La culpa es nuestra',
+      'description': 'Las epidemias son hijas de la humanidad: hemos empujado las fronteras productivas y el planeta lo resiente. Pero en lugar de diseñar una solución global a una pandemia mundial, muchos países han optado por señalar culpables y cerrar sus fronteras.',
+      'link': 'https://www.nytimes.com/es/2020/04/28/espanol/opinion/culpa-coronavirus.html',
+      'pubdate': 'Tue, 28 Apr 2020 15:51:15 +0000'
+    },
+    {
+      'title': 'Soy médico en Ecuador y me enfermé de la COVID-19',
+      'description': 'Cuando recibí el resultado positivo sentí miedo. Imaginé todo lo que podía pasarme.',
+      'link': 'https://www.nytimes.com/es/2020/04/28/espanol/opinion/medico-ecuador-covid-19.html',
+      'pubdate': 'Tue, 28 Apr 2020 14:42:02 +0000'
+    },
+    {
+      'title': 'Paciencia y buen humor',
+      'description': None,
+      'link': 'https://www.nytimes.com/es/2020/04/28/espanol/paciencia-y-buen-humor.html',
+      'pubdate': 'Tue, 28 Apr 2020 09:00:21 +0000'
+    },
+    {
+      'title': '¡Ayuda! La mascarilla empaña mis lentes',
+      'description': 'Los trabajadores de la salud tienen algunos trucos para resolver este fastidioso problema pero, mediante ensayo y error, deberás descubrir el que mejor te funcione.',
+      'link': 'https://www.nytimes.com/es/2020/04/27/espanol/estilos-de-vida/lentes-empanar-mascarillass-coronavirus.html',
+      'pubdate': 'Mon, 27 Apr 2020 22:24:54 +0000'
+    },
+    {
+      'title': 'Las remesas de los inmigrantes se reducen por la crisis del coronavirus',
+      'description': 'Cada año, los trabajadores que migran envían miles de millones de dólares a sus hogares. La parálisis económica provocada por la pandemia del coronavirus amenaza esos ingresos.',
+      'link': 'https://www.nytimes.com/es/2020/04/27/espanol/america-latina/remesas-estados-unidos-mexico-virus.html',
+      'pubdate': 'Mon, 27 Apr 2020 18:08:24 +0000'
+    },
+    {
+      'title': 'COVID-19: Todos somos yanomamis',
+      'description': 'Este grupo indígena en Brasil ha experimentado tragedias y negligencia a lo largo de su historia. El impacto de la pandemia del coronavirus, potencialmente devastador, no debe ser pasado por alto.',
+      'link': 'https://www.nytimes.com/es/2020/04/27/espanol/opinion/coronavirus-yanomami-brasil.html',
+      'pubdate': 'Tue, 28 Apr 2020 13:38:00 +0000'
+    },
+    {
+      'title': 'Frágiles',
+      'description': 'Ya no fue posible salir del pueblo, el miedo se agudizó. El aislamiento puso en juego la posibilidad de reencontrarme con mis hijos.',
+      'link': 'https://www.nytimes.com/es/2020/04/27/espanol/opinion/fragiles.html',
+      'pubdate': 'Mon, 27 Apr 2020 20:45:28 +0000'
+    },
+    {
+      'title': 'Mi lugar',
+      'description': 'Víctima de la cuarentena decretada por el gobierno argentino, el bar que es como mi casa permanece trágicamente cerrado.',
+      'link': 'https://www.nytimes.com/es/2020/04/26/espanol/opinion/mi-lugar.html',
+      'pubdate': 'Sun, 26 Apr 2020 14:00:05 +0000'
+    },
+    {
+      'title': 'Cómo seguir siendo ciudadanos del mundo',
+      'description': 'Somos muchos quienes nos sentimos cosmopolitas. Éramos movimiento y ahora, confinados, somos quietud. Se impone el estoicismo. ¿Cuáles serán las lecciones de estos meses enfermos?',
+      'link': 'https://www.nytimes.com/es/2020/04/26/espanol/opinion/coronavirus-paciencia.html',
+      'pubdate': 'Sun, 26 Apr 2020 09:00:10 +0000'
+    }
+  ]
+  FEEDS
+  SCRAPED
+  FROM
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  }
+  :
+  [
+    {
+      'title': 'Profits and Pride at Stake, the Race for a Vaccine Intensifies',
+      'description': 'Governments, companies and academic labs are accelerating their efforts amid geopolitical crosscurrents, questions about safety and the challenges of producing enough doses for billions of people.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/politics/vaccines-coronavirus-research.html',
+      'pubdate': 'Sat, 02 May 2020 22:32:24 +0000'
+    },
+    {
+      'title': 'Grandma Rocket, the Virus and a Family Whose Love Bridged 2,500 Miles',
+      'description': 'A matriarch to generations, both in the United States and Colombia, she struggled with the coronavirus on a ventilator. They gathered online and in the I.C.U. to prepare for the end.',
+      'link': 'https://www.nytimes.com/2020/05/02/nyregion/hospital-family-coronavirus.html',
+      'pubdate': 'Sat, 02 May 2020 19:28:09 +0000'
+    },
+    {
+      'title': 'From Seoul to Sydney, Cities in Asia and Australia Learn to Live with Coronavirus',
+      'description': 'In parts of Asia and Australia, people are going out — but social distancing and other restrictions have become the new normal.',
+      'link': 'https://www.nytimes.com/2020/05/02/world/asia/coronavirus-china-hong-kong-south-korea-australia.html',
+      'pubdate': 'Sat, 02 May 2020 23:59:26 +0000'
+    },
+    {
+      'title': 'Coronavirus Live Updates: Warmer Weather and Relaxed Rules Bring New Tests for States',
+      'description': 'Congress declined the administration’s offer of rapid testing, saying tests were needed more elsewhere. Maryland canceled a big order of supplies and asked for an investigation into the shipment.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/coronavirus-updates.html',
+      'pubdate': 'Sun, 03 May 2020 02:16:55 +0000'
+    },
+    {
+      'title': 'Coronavirus World Updates: Italy Reports 474 New Deaths',
+      'description': 'As lockdowns begin to ease for millions of Europeans, Italy reports a spike in deaths. Migrants face roundups in Malaysia and surging infections in Singapore’s dormitories.',
+      'link': 'https://www.nytimes.com/2020/05/02/world/coronavirus-news.html',
+      'pubdate': 'Sun, 03 May 2020 01:50:05 +0000'
+    },
+    {
+      'title': 'Balmy Weekend Presents a Challenge: New Yorkers Rushing to Parks',
+      'description': 'After weeks spent indoors, people ventured outside in droves. But worried officials warned them to wear masks and keep social distance.',
+      'link': 'https://www.nytimes.com/2020/05/02/nyregion/weather-parks-nyc-nj-coronavirus.html',
+      'pubdate': 'Sat, 02 May 2020 23:21:06 +0000'
+    },
+    {
+      'title': 'Full Coronavirus Coverage',
+      'description': None,
+      'link': 'https://www.nytimes.com/news-event/coronavirus',
+      'pubdate': 'Sun, 03 May 2020 02:14:03 +0000'
+    },
+    {
+      'title': "Tara Reade's Allegation Is Against Biden, but the Burden Is on Women ",
+      'description': 'Even with the progress of #MeToo, women are called upon to defend their male colleagues. In the 2020 election, that can mean putting the movement itself on the line.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/politics/tara-reade-joe-biden-metoo.html',
+      'pubdate': 'Sun, 03 May 2020 02:07:12 +0000'
+    },
+    {
+      'title': 'Masked or Not, Mike Pence Keeps the Peace With a Poker Face',
+      'description': '“Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html',
+      'pubdate': 'Sat, 02 May 2020 21:27:03 +0000'
+    },
+    {
+      'title': 'Republicans Edge Away From Trump on Coronavirus Response',
+      'description': 'Moderate Republicans in competitive districts are navigating a careful balance in addressing the coronavirus crisis, eager to put some distance between themselves and a president whose response has been criticized.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/politics/coronavirus-trump-republicans.html',
+      'pubdate': 'Sat, 02 May 2020 09:00:15 +0000'
+    },
+    {
+      'title': 'Some Small Businesses That Got Aid Fear the Rules Too Much to Spend It',
+      'description': 'Requirements for using federal coronavirus loans are complicated and confusing for owners. “It’s chaos,” one lawyer said.',
+      'link': 'https://www.nytimes.com/2020/05/02/business/economy/loans-coronavirus-small-business.html',
+      'pubdate': 'Sat, 02 May 2020 15:40:17 +0000'
+    },
+    {
+      'title': 'Hotel Group Will Return Tens of Millions in Small Business Loans',
+      'description': 'Ashford Inc., which has come under scrutiny after receiving at least $70 million in Paycheck Protection Program loans, said on Saturday that it would return the money.',
+      'link': 'https://www.nytimes.com/2020/05/02/business/economy/ashford-hotels-virus-monty-bennett.html',
+      'pubdate': 'Sun, 03 May 2020 01:34:25 +0000'
+    },
+    {
+      'title': 'Wild Ideas to Bring Back Sports Might Say More About Cities Than Leagues',
+      'description': 'MGM Resorts International, in hard-hit Las Vegas, has proposed audacious plans to the leagues to come back in a quarantined environment.',
+      'link': 'https://www.nytimes.com/2020/05/01/sports/when-sports-come-back-nba-nfl.html',
+      'pubdate': 'Fri, 01 May 2020 23:53:55 +0000'
+    },
+    {
+      'title': 'Was That a Cough? Going Back to the Movies in Texas',
+      'description': 'A few movie theaters in Texas opened on Saturday, early experiments in back-to-normal living after a long coronavirus lockdown.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/coronavirus-movie-theaters-texas.html',
+      'pubdate': 'Sat, 02 May 2020 23:34:58 +0000'
+    },
+    {
+      'title': '‘No One Needs Botox in a Pandemic.’ But Some in Beverly Hills Are Now Getting It.',
+      'description': 'The city on Tuesday rescinded a moratorium on elective surgery, clearing the way for some cosmetic surgeons to reopen.',
+      'link': 'https://www.nytimes.com/2020/05/01/us/coronavirus-beverly-hills-botox.html',
+      'pubdate': 'Sat, 02 May 2020 13:40:59 +0000'
+    },
+    {
+      'title': '‘Murder Hornets’ in the U.S.: The Rush to Stop the Asian Giant Hornet',
+      'description': 'Sightings of the Asian giant hornet have prompted fears that the vicious insect could establish itself in the United States and devastate bee populations.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html',
+      'pubdate': 'Sun, 03 May 2020 00:05:55 +0000'
+    },
+    {
+      'title': '11 of Our Best Weekend Reads',
+      'description': 'The deadly racial disparities of Covid-19. Stephen King on Joe Biden and the pandemic. The beauty of Easter Island. The new Saturday night. The big lasagna. And more.',
+      'link': 'https://www.nytimes.com/2020/05/01/arts/11-of-our-best-weekend-reads.html',
+      'pubdate': 'Fri, 01 May 2020 17:22:18 +0000'
+    },
+    {
+      'title': 'A Bit of Relief: Tea and Toast',
+      'description': '“Quite honestly, one of the most disheartening things about American life is not the politics, not the incredible social division — it’s the way you make tea.”',
+      'link': 'https://www.nytimes.com/2020/05/01/podcasts/the-daily/coronavirus-baking-tea-bread.html',
+      'pubdate': 'Fri, 01 May 2020 23:54:11 +0000'
+    },
+    {
+      'title': 'Sign Up: ‘Watching’',
+      'description': 'Get recommendations on the best TV shows and movies to watch.',
+      'link': 'https://www.nytimes.com/newsletters/watching',
+      'pubdate': 'Fri, 01 May 2020 19:55:11 +0000'
+    },
+    {
+      'title': 'Sign Up: ‘Coronavirus Briefing’',
+      'description': 'An informed guide to the global outbreak.',
+      'link': 'https://www.nytimes.com/newsletters/coronavirus-briefing',
+      'pubdate': 'Fri, 01 May 2020 19:55:11 +0000'
+    },
+    {
+      'title': 'A Young Doctor Fights to Survive the Coronavirus',
+      'description': '“I just went down on my knees,” his mother recalled later. “I just implored God for mercy.”',
+      'link': 'https://www.nytimes.com/2020/05/02/opinion/sunday/young-doctor-coronavirus.html',
+      'pubdate': 'Sat, 02 May 2020 20:33:00 +0000'
+    },
+    {
+      'title': 'How Do You Fight the Coronavirus Without Running Water?',
+      'description': 'Entire communities around the country face this terrifying virus without being even able to wash their hands.',
+      'link': 'https://www.nytimes.com/2020/05/02/opinion/coronavirus-water.html',
+      'pubdate': 'Sat, 02 May 2020 18:14:15 +0000'
+    },
+    {
+      'title': 'She Predicted the Coronavirus. What Does She Foresee Next?',
+      'description': 'Laurie Garrett, the prophet of this pandemic, expects years of death and “collective rage.”',
+      'link': 'https://www.nytimes.com/2020/05/02/opinion/sunday/coronavirus-prediction-laurie-garrett.html',
+      'pubdate': 'Sat, 02 May 2020 18:30:06 +0000'
+    },
+    {
+      'title': 'Could ‘Innate Immunology’ Save Us From the Coronavirus?',
+      'description': 'Researchers are testing whether decades-old vaccines for polio and tuberculosis could protect against infection.',
+      'link': 'https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-vaccine-innate-immunity.html',
+      'pubdate': 'Fri, 01 May 2020 18:09:35 +0000'
+    },
+    {
+      'title': 'Coronavirus Vaccines Could Be Fought Over Globally',
+      'description': 'This isn’t just about saving lives. It’s also about power, profit and national prestige.',
+      'link': 'https://www.nytimes.com/2020/04/30/opinion/sunday/coronavirus-vaccine-supply.html',
+      'pubdate': 'Fri, 01 May 2020 21:13:33 +0000'
+    },
+    {
+      'title': 'Joe Says It Ain’t So',
+      'description': 'With partisan goggles, we plunge back into the muck.',
+      'link': 'https://www.nytimes.com/2020/05/02/opinion/sunday/joe-says-it-aint-so.html',
+      'pubdate': 'Sat, 02 May 2020 20:50:50 +0000'
+    },
+    {
+      'title': 'The Father I Never Forgave',
+      'description': 'He left my life when I needed him most. And then he came back.',
+      'link': 'https://www.nytimes.com/2020/05/02/opinion/sunday/alcoholism-father-baseball.html',
+      'pubdate': 'Sat, 02 May 2020 15:00:08 +0000'
+    },
+    {
+      'title': 'The Courage to Be Alone',
+      'description': 'On our daily walks together, my young daughter and I begin to navigate a new reality.',
+      'link': 'https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-parenting-isolation.html',
+      'pubdate': 'Fri, 01 May 2020 19:32:56 +0000'
+    },
+    {
+      'title': 'Where Are the Photos of People Dying of Covid?',
+      'description': 'In times of crisis, stark images of sacrifice or consequence have often moved masses to act.',
+      'link': 'https://www.nytimes.com/2020/05/01/opinion/coronavirus-photography.html',
+      'pubdate': 'Fri, 01 May 2020 18:41:55 +0000'
+    },
+    {
+      'title': 'The New Great Depression Is Coming. Will There Be a New New Deal?',
+      'description': 'After the coronavirus, political transformation may be inevitable.',
+      'link': 'https://www.nytimes.com/2020/05/02/opinion/sunday/coronavirus-new-deal-ubi.html',
+      'pubdate': 'Sat, 02 May 2020 16:29:17 +0000'
+    },
+    {
+      'title': 'What Coronavirus Herd Immunity Really Means',
+      'description': 'Try to reach it without a vaccine, and millions will die.',
+      'link': 'https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-herd-immunity.html',
+      'pubdate': 'Sat, 02 May 2020 00:41:54 +0000'
+    },
+    {
+      'title': 'My Retirement Plan Is You',
+      'description': 'Americans without retirement savings are increasingly moving in with their millennial children.',
+      'link': 'https://www.nytimes.com/2020/05/02/business/Parents-retirement-moving-in-millennials.html',
+      'pubdate': 'Sat, 02 May 2020 09:00:16 +0000'
+    },
+    {
+      'title': 'No One to Hunker Down With',
+      'description': 'Three days before we were told to stay home, the man I’d been dating for a month told me he was self-isolating.',
+      'link': 'https://www.nytimes.com/2020/04/30/well/mind/coronavirus-quarantine-single-dating-relationships.html',
+      'pubdate': 'Thu, 30 Apr 2020 20:52:07 +0000'
+    },
+    {
+      'title': 'Berkshire Hathaway Lost $49.7 Billion in First Quarter Stung by Coronavirus',
+      'description': 'The huge loss reflects the hit that the crisis has inflicted on Warren E. Buffett’s vast conglomerate.',
+      'link': 'https://www.nytimes.com/2020/05/02/business/berkshire-hathaway-stock-warren-buffett.html',
+      'pubdate': 'Sun, 03 May 2020 00:35:41 +0000'
+    },
+    {
+      'title': 'Kim Jong-un Resurfaces, State Media Says, After Weeks of Health Rumors',
+      'description': 'The North Korean leader was said to have visited a factory on Friday, after a series of unsubstantiated news reports suggested that he was gravely ill.',
+      'link': 'https://www.nytimes.com/2020/05/01/world/asia/kim-jong-un-resurfaces.html',
+      'pubdate': 'Sat, 02 May 2020 13:45:54 +0000'
+    },
+    {
+      'title': 'Trump Moves to Replace Watchdog Who Identified Critical Medical Shortages',
+      'description': 'The president announced the nomination of an inspector general for the Department of Health and Human Services, who, if confirmed, would replace an acting official whose report embarrassed Mr. Trump.',
+      'link': 'https://www.nytimes.com/2020/05/01/us/politics/trump-health-department-watchdog.html',
+      'pubdate': 'Sat, 02 May 2020 21:11:23 +0000'
+    },
+    {
+      'title': 'Afghanistan Investigating Claims Migrants Were Killed by Iranian Guards',
+      'description': 'About 50 Afghan migrants crossing into Iran illegally were beaten and thrown into a river, local news media and witnesses say. As many as half did not survive, they said.',
+      'link': 'https://www.nytimes.com/2020/05/02/world/asia/afghanistan-iran-migrants-drown.html',
+      'pubdate': 'Sat, 02 May 2020 17:49:58 +0000'
+    },
+    {
+      'title': 'Filmmaker Who Mocked Egypt’s President Dies in Prison',
+      'description': 'Shady Habash had been held without trial at a maximum-security prison for two years. His lawyer said the cause of death was unknown.',
+      'link': 'https://www.nytimes.com/2020/05/02/world/middleeast/egypt-shady-habash-dead-sisi.html',
+      'pubdate': 'Sat, 02 May 2020 13:06:54 +0000'
+    },
+    {
+      'title': 'Tanzanian Cartoonist Has a Stick for Every Powerful Eye',
+      'description': 'Godfrey Mwampembwa, popularly known as Gado, has been holding politicians accountable for nearly 30 years. Now, his concern has shifted to the coronavirus.',
+      'link': 'https://www.nytimes.com/2020/05/01/world/africa/tanzanian-cartoonist-gado.html',
+      'pubdate': 'Fri, 01 May 2020 18:01:11 +0000'
+    },
+    {
+      'title': 'Tony Allen, Drummer Who Created the Beat of Afrobeat, Dies at 79',
+      'description': 'With the Nigerian bandleader Fela and later on his own, he merged West African styles with American jazz and funk, reaching listeners worldwide.',
+      'link': 'https://www.nytimes.com/2020/05/02/arts/music/tony-allen-dead.html',
+      'pubdate': 'Sat, 02 May 2020 23:04:43 +0000'
+    },
+    {
+      'title': 'After a Lifetime Together, Coronavirus Takes Them Both',
+      'description': 'Across the country, reports are surfacing of long-term couples dying from Covid-19 in quick succession, redoubling the pain for those they leave behind.',
+      'link': 'https://www.nytimes.com/2020/05/02/us/coronavirus-couples.html',
+      'pubdate': 'Sat, 02 May 2020 15:13:45 +0000'
+    },
+    {
+      'title': 'Colorado Paramedic Who Came to Help New York Dies From Covid-19',
+      'description': 'For three weeks, Paul Cary transported coronavirus patients to hospitals by ambulance. He had already signed up for a second 30-day deployment in New York when he started feeling sick.',
+      'link': 'https://www.nytimes.com/2020/05/02/nyregion/paramedic-paul-cary-coronavirus-nyc.html',
+      'pubdate': 'Sat, 02 May 2020 23:29:19 +0000'
+    },
+    {
+      'title': 'How to Also Keep Your Car Healthy',
+      'description': 'Along with making medical equipment, the car industry is finding ways to keep their customers safer, like coming to you when your car needs service.',
+      'link': 'https://www.nytimes.com/2020/05/01/smarter-living/how-keep-car-healthy.html',
+      'pubdate': 'Fri, 01 May 2020 19:09:20 +0000'
+    },
+    {
+      'title': 'How to Stay Optimistic When Everything Seems Wrong',
+      'description': 'Optimism isn’t about ignoring negative feelings. It’s about being hopeful about the future, even when the present seems wholly negative.',
+      'link': 'https://www.nytimes.com/2020/04/29/smarter-living/coronavirus-how-to-stay-optimistic-.html',
+      'pubdate': 'Wed, 29 Apr 2020 12:18:30 +0000'
+    },
+    {
+      'title': 'Job Interviews Are Broken. There’s a Way to Fix Them.',
+      'description': 'Instead of focusing on credentials, let’s give candidates the chance to showcase their will and skill to learn.',
+      'link': 'https://www.nytimes.com/2020/05/01/smarter-living/how-to-fix-job-interviews-tips.html',
+      'pubdate': 'Fri, 01 May 2020 13:44:51 +0000'
+    },
+    {
+      'title': 'How to Feel Together When You Are Apart',
+      'description': 'For couples physically separated by coronavirus, here are a few strategies to make your newly long-distance relationship feel a little bit closer.',
+      'link': 'https://www.nytimes.com/2020/04/30/smarter-living/coronavirus-long-distance-relationships.html',
+      'pubdate': 'Thu, 30 Apr 2020 12:11:02 +0000'
+    },
+    {
+      'title': 'Here’s What to Trim (and What Not to Touch) From Your Budget Right Now',
+      'description': 'Your finances may be tight, but there are helpful changes you can make during the coronavirus lockdown.',
+      'link': 'https://www.nytimes.com/2020/04/28/smarter-living/heres-what-to-trim-and-what-not-to-touch-from-your-budget-right-now.html',
+      'pubdate': 'Tue, 28 Apr 2020 09:00:12 +0000'
+    },
+    {
+      'title': 'Street Art Confronts the Pandemic',
+      'description': 'From Norway to Colorado, street artists depict a world of masks and hand-washing (and toilet paper). One recurrent theme: a deep appreciation of health care workers.',
+      'link': 'https://www.nytimes.com/2020/05/01/travel/coronavirus-street-art.html',
+      'pubdate': 'Fri, 01 May 2020 09:00:30 +0000'
+    },
+    {
+      'title': 'What Do Famous People’s Bookshelves Reveal?',
+      'description': 'In quarantine, people are inadvertently exposing their reading habits — embarrassing, surprising and impressive.',
+      'link': 'https://www.nytimes.com/2020/04/30/books/celebrity-bookshelves-tv-coronavirus.html',
+      'pubdate': 'Fri, 01 May 2020 01:57:25 +0000'
+    },
+    {
+      'title': 'A Letter From the Contents of My Bra Drawer',
+      'description': 'It’s been weeks since we’ve seen each other.',
+      'link': 'https://www.nytimes.com/2020/04/28/style/bras-at-home-coronavirus.html',
+      'pubdate': 'Tue, 28 Apr 2020 09:00:11 +0000'
+    },
+    {
+      'title': 'Samanta Schweblin Talks About Her Creepy New Novel',
+      'description': '“How can we talk about technology without getting tangled up in technical terms?” the Argentine author asks. “Little Eyes,” about stuffed animals operated remotely by strangers, is her answer.',
+      'link': 'https://www.nytimes.com/2020/04/30/books/samanta-schweblin-little-eyes.html',
+      'pubdate': 'Thu, 30 Apr 2020 12:49:24 +0000'
+    },
+    {
+      'title': 'Aching for My Grandchildren in Isolation',
+      'description': 'With my compromised immunity, blowing kisses through the window is an act of love and hope.',
+      'link': 'https://www.nytimes.com/2020/04/29/well/family/coronavirus-grandchildren-compromised-immunity-cancer.html',
+      'pubdate': 'Thu, 30 Apr 2020 15:52:37 +0000'
+    },
+    {
+      'title': 'Antarctica vs. Science',
+      'description': 'For researchers using delicate, one-of-a-kind equipment, the extreme conditions at the bottom of the planet pose special challenges.',
+      'link': 'https://www.nytimes.com/2020/05/02/science/antarctica-science-equipment.html',
+      'pubdate': 'Sat, 02 May 2020 09:00:18 +0000'
+    },
+    {
+      'title': 'What Is ‘Covid Toe’? Maybe a Strange Sign of Coronavirus Infection',
+      'description': 'Dermatologists say the lesions should prompt testing for the virus, even though many patients have no other symptoms.',
+      'link': 'https://www.nytimes.com/2020/05/01/health/coronavirus-covid-toe.html',
+      'pubdate': 'Fri, 01 May 2020 17:33:40 +0000'
+    },
+    {
+      'title': 'Old Drugs May Find a New Purpose: Fighting the Coronavirus',
+      'description': 'A “drug repurposing” strategy uncovers dozens of compounds that have the unexpected potential to combat the virus.',
+      'link': 'https://www.nytimes.com/2020/04/30/health/coronavirus-antiviral-drugs.html',
+      'pubdate': 'Fri, 01 May 2020 20:52:56 +0000'
+    },
+    {
+      'title': 'When Crocodiles Once Dived Like Dolphins and Whales',
+      'description': 'They didn’t have blowholes, but an ancient lineage of crocodilians returned to the oceans in a manner similar to some marine mammals.',
+      'link': 'https://www.nytimes.com/2020/04/20/science/crocodiles-dolphins-whales.html',
+      'pubdate': 'Mon, 20 Apr 2020 19:39:40 +0000'
+    },
+    {
+      'title': 'Gymnast Laurie Hernandez Recalls Emotional Abuse Under Coach Haney',
+      'description': 'Laurie Hernandez won medals at the 2016 Games. But she said her love of the sport was tainted under training with Maggie Haney, who is now suspended by the sport’s American federation.',
+      'link': 'https://www.nytimes.com/2020/05/01/sports/maggie-haney-gymnastics-abuse.html',
+      'pubdate': 'Sat, 02 May 2020 02:06:20 +0000'
+    },
+    {
+      'title': 'Try Tiles',
+      'description': 'Our soothing matching game may help you de-stress.',
+      'link': 'https://www.nytimes.com/puzzles/tiles',
+      'pubdate': 'Mon, 27 Apr 2020 14:41:41 +0000'
+    },
+    {
+      'title': 'The Crossword, Vertex and More',
+      'description': 'Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.',
+      'link': 'https://www.nytimes.com/crosswords',
+      'pubdate': 'Mon, 27 Apr 2020 14:41:41 +0000'
+    },
+    {
+      'title': 'Try Spelling Bee',
+      'description': 'Puzzle throughout the day to see how many words you can find.',
+      'link': 'https://www.nytimes.com/puzzles/spelling-bee',
+      'pubdate': 'Mon, 27 Apr 2020 14:41:41 +0000'
+    }
+  ],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://facebook.com', 'https://twitter.com', 'https://time.com', 'https://globo.com', 'https://elpais.com', 'https://uol.com.br', 'https://theintercept.com', 'https://bbc.com', 'https://publico.es', 'https://aei.org', 'https://gofundme.com', 'https://charitynavigator.org', 'https://redcrossblood.org', 'https://wck.org', 'https://nytco.com', 'https://nytmediakit.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://nwea.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  [],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://nbcnews.com', 'https://harvard.edu', 'https://1daysooner.org', 'https://fda.gov', 'https://slack-redir.net'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://www.gob.mx', 'https://state.gov', 'https://imf.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://hkpl.gov.hk', 'https://qq.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://jamanetwork.com', 'https://entnet.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://opb.org', 'https://courier-journal.com', 'https://wsj.com', 'https://nih.gov', 'https://nejm.org', 'https://southcom.mil', 'https://washingtonpost.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://cdc.gov', 'https://oup.com', 'https://ciriscience.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://reuters.com', 'https://ipsos.com', 'https://bernama.com', 'https://usda.gov', 'https://berliner-philharmoniker.de', 'https://digitalconcerthall.com', 'https://hindustantimes.com', 'https://hrw.org', 'https://un.org', 'https://youtube.com', 'https://thestar.com', 'https://cbc.ca', 'https://vicnews.com', 'https://ubc.ca'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://streetsblog.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://researchgate.net', 'https://mst.edu', 'https://jiangmeiwu.com', 'https://iu.edu', 'https://youtu.be', 'https://ezvacuum.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://kff.org', 'https://telabortion.org', 'https://congress.gov', 'https://guttmacher.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://weneedmasks.org', 'https://box.com', 'https://nyt.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://github.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://soundcloud.com', 'https://msnbc.com', 'https://businessinsider.com', 'https://thecut.com', 'https://buzzfeednews.com', 'https://thehill.com', 'https://thedailybeast.com', 'https://apple.com', 'https://spotify.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://rklcpa.com', 'https://mccarter.com', 'https://blazingfreshdonuts.com', 'https://treasury.gov', 'https://educonsultingfirm.com', 'https://scissorsscotch.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://ashfordinc.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://petco.com', 'https://andis.com', 'https://amazon.com', 'https://revivalanimal.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://thewirecutter.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://brookings.edu', 'https://nvc19.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://europa.eu'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://newsweek.com', 'https://buckscountycouriertimes.com', 'https://whtc.com', 'https://house.gov'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  [],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://yale.edu', 'https://wustl.edu', 'https://motosolutions.com', 'https://essilorusa.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  [],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  [],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://amazoniareal.com.br', 'https://socioambiental.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://medscape.com', 'https://rebelem.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://navajo-nsn.gov', 'https://the-journal.com', 'https://endhomelessness.org', 'https://digdeep.org', 'https://instagram.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://lanacion.com.ar', 'https://gestion.pe'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/es.xml',
+    'title': 'NYT > The New York Times en Español',
+    'websitelink': 'https://www.nytimes.com/es/',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:28:04 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com/es/',
+      'title': 'NYT > The New York Times en Español',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://alianzaeditorial.es', 'https://adrianahidalgo.es', 'https://megustaleer.com', 'https://planetadelibros.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://cnbc.com', 'https://politico.com', 'https://vox.com', 'https://senate.gov', 'https://latimes.com', 'https://uni-muenchen.de'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://nataliexdean.com', 'https://npr.org', 'https://bmj.com', 'https://realclearscience.com', 'https://cnn.com'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://pewresearch.org', 'https://bc.edu', 'https://aarp.org', 'https://acl.gov', 'https://pewsocialtrends.org'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  [],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  ['https://theatlantic.com', 'https://miamiherald.com', 'https://hhs.gov', 'https://theguardian.com', 'https://whitney.org', 'https://google.com', 'https://gothamist.com', 'https://nyc.gov'],
+  "externallinksfound"
+  :
+  {
+    'url': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'title': 'NYT > Top Stories',
+    'websitelink': 'https://www.nytimes.com',
+    'description': '',
+    'language': 'en-us',
+    'copyright': 'Copyright 2020 The New York Times Company',
+    'lastbuiddate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'pubdate': 'Sun, 03 May 2020 02:29:54 +0000',
+    'image': {
+      'link': 'https://www.nytimes.com',
+      'title': 'NYT > Top Stories',
+      'url': 'https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png',
+      'description': '',
+      'width': '',
+      'height': ''
+    },
+    'categories': [],
+    'cloud': {},
+    'docs': '',
+    'generator': '',
+    'managingeditor': '',
+    'rating': '',
+    'skipdays': [],
+    'ttl': '',
+    'webmaster': '',
+    'skiphours': [],
+    'textinput': {
+    }
+  },
+  "data"
+  :
+  :
+  []
+]

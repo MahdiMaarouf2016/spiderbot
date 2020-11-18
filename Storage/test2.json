@@ -1,0 +1,13 @@
+{
+  'domaine': 'nytimes.com',
+  'url': 'https://cn.nytimes.com',
+  'rsschannelslinks': [],
+  'externalLinks': [
+    'https://sso.nytcn.me/email/?source=top-right',
+    'https://www.shi-magazine.com/',
+    'https://itunes.apple.com/app/apple-store/id807498298?pt=13036&ct=news-hp&mt=8',
+    'https://play.google.com/store/apps/details?id=com.nytimes.cn',
+    'https://nytcnapps.oss-cn-hongkong.aliyuncs.com/latest.apk'
+  ],
+  'containerwebsiteinfoTitle': 'Breaking News, World News & Multimedia'
+}

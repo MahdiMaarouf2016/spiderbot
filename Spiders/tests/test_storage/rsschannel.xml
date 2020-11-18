@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 29 Apr 2020 23:36:29 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2020 23:36:29 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>Live Updates: F.D.A. Plans to Announce Emergency Use of Coronavirus Drug</title>
+      <link>https://www.nytimes.com/2020/04/29/us/coronavirus-usa-cases-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/us/coronavirus-usa-cases-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/us/coronavirus-usa-cases-deaths.html" rel="standout"/>
+      <description>The experimental drug, remdesivir, still needs more review, but Dr. Fauci calls early results “very optimistic.” President Trump is pressing a crash vaccine program, but experts fear risks of rushing.</description>
+      <pubDate>Wed, 29 Apr 2020 23:11:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-moth-v353.png" width="151"/>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Hasidic Funeral in Brooklyn Draws 2,500, Creating Crisis for Mayor de Blasio</title>
+      <link>https://www.nytimes.com/2020/04/29/nyregion/coronavirus-jews-hasidic-de-blasio.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/nyregion/coronavirus-jews-hasidic-de-blasio.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/nyregion/coronavirus-jews-hasidic-de-blasio.html" rel="standout"/>
+      <description>The event showed the challenges that officials have faced in addressing the flouting of social distancing in close-knit ultra-Orthodox neighborhoods.</description>
+      <dc:creator>Liam Stack</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 23:15:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hasidism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/nyregion/29nyvirus-hasidic/29nyvirus-hasidic-moth.jpg" width="151"/>
+      <media:credit>Todd Maisel</media:credit>
+      <media:description>Hundreds gathered on the streets of Williamsburg Tuesday for the funeral of a rabbi who reportedly died of Covid-19.</media:description>
+    </item>
+
+    <!--
+    <item>
+      <title>Dozens of Decomposing Bodies Found in Trucks at Brooklyn Funeral Home</title>
+      <link>https://www.nytimes.com/2020/04/29/nyregion/bodies-brooklyn-funeral-home-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/nyregion/bodies-brooklyn-funeral-home-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/nyregion/bodies-brooklyn-funeral-home-coronavirus.html" rel="standout"/>
+      <description>Neighbors complained of a foul odor coming from trucks parked outside the home, which had a broken freezer, a law enforcement official said.</description>
+      <dc:creator>Michael Gold and Ashley Southall</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 23:03:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/nyregion/29nyvirus-funeralhome/29nyvirus-funeralhome-moth.jpg" width="151"/>
+      <media:credit>Robin Stein/The New York Times</media:credit>
+      <media:description>The Andrew T. Cleckley Funeral Home in the Flatlands section. </media:description>
+    </item>
+    <item>
+      <title>US G.D.P. Declined in First Quarter, With Worse Economy to Come</title>
+      <link>https://www.nytimes.com/2020/04/29/business/economy/us-gdp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/business/economy/us-gdp.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/business/economy/us-gdp.html" rel="standout"/>
+      <description>U.S. gross domestic product declined in the first quarter, dragged down by the pandemic’s grip in March. Don’t even ask about this quarter.</description>
+      <dc:creator>Ben Casselman</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:45:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/business/econ-promo/econ-promo-moth.png" width="151"/>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Stocks Are Rising as Economic News Worsens </title>
+      <link>https://www.nytimes.com/2020/04/29/business/stock-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/business/stock-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/business/stock-markets.html" rel="standout"/>
+      <description>Trillions in stimulus dollars have convinced Wall Street that the government has its back, and investors are seizing on even glimmers of good news about the pandemic.</description>
+      <dc:creator>Matt Phillips</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:39:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remdesivir (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor's 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">S &amp; P Dow Jones Indices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/business/29virus-investors1/29virus-investors1-moth.jpg" width="151"/>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>Since March 23, when the Federal Reserve announced plans to go all out to prop up Wall Street, the S&amp;amp;P 500 has soared by more than 31 percent.</media:description>
+    </item>
+    <item>
+      <title>Fed Suggests Tough Road Ahead as It Pledges to Help Insulate Economy</title>
+      <link>https://www.nytimes.com/2020/04/29/business/economy/fed-coronavirus-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/business/economy/fed-coronavirus-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/business/economy/fed-coronavirus-interest-rates.html" rel="standout"/>
+      <description>The Federal Reserve left rates unchanged near zero at its April meeting and suggested it would not be raising them anytime soon as the virus takes a huge toll on economic growth.</description>
+      <dc:creator>Jeanna Smialek</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:49:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/business/29DC-FED-01/merlin_171561381_efb6553f-12f4-4d71-992d-2978cbe20c90-moth.jpg" width="151"/>
+      <media:credit>Ting Shen for The New York Times</media:credit>
+      <media:description>Federal Reserve officials suggested they did not anticipate growth to bounce back quickly in the “V-shaped” recovery that President Trump and some other administration officials seemed to expect. </media:description>
+    </item>
+    <item>
+      <title>Tara Reade Assault Allegation: Democrats' Frustration Mounts as Biden Remains Silent</title>
+      <link>https://www.nytimes.com/2020/04/29/us/politics/tara-reade-joe-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/us/politics/tara-reade-joe-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/us/politics/tara-reade-joe-biden.html" rel="standout"/>
+      <description>Activists and women’s rights advocates have urged Mr. Biden to address a former aide’s allegation that he sexually assaulted her in 1993. His lack of response has angered them.</description>
+      <dc:creator>Lisa Lerer and Sydney Ember</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:46:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reade, Tara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/us/politics/29biden-reade1/29biden-reade1-moth.jpg" width="151"/>
+      <media:credit>Saul Loeb/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Former Vice President Joseph R. Biden Jr. at a news conference in Wilmington, Del., last month. He has yet to discuss the sexual assault allegation against him or be asked about it in an interview.</media:description>
+    </item>
+    <item>
+      <title>Polls Had Trump Stewing, and Lashing Out at His Own Campaign</title>
+      <link>https://www.nytimes.com/2020/04/29/us/politics/trump-campaign-reelection-polls.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/us/politics/trump-campaign-reelection-polls.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/us/politics/trump-campaign-reelection-polls.html" rel="standout"/>
+      <description>The president erupted recently at his campaign manager, Brad Parscale, after seeing polling data that showed Mr. Trump trailing Joe Biden in several states.</description>
+      <dc:creator>Maggie Haberman and Annie Karni</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 23:33:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parscale, Brad (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/us/politics/29trump-campaign1/29trump-campaign1-moth.jpg" width="151"/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump has slipped behind his Democratic opponent, former Vice President Joseph R. Biden Jr., in some recent polls of battleground states.</media:description>
+    </item>
+    <item>
+      <title>A Scramble for Virus Apps That Do No Harm</title>
+      <link>https://www.nytimes.com/2020/04/29/business/coronavirus-cellphone-apps-contact-tracing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/business/coronavirus-cellphone-apps-contact-tracing.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/business/coronavirus-cellphone-apps-contact-tracing.html" rel="standout"/>
+      <description>Dozens of tracking apps for smartphones are being used or developed to help contain the coronavirus pandemic. But there are worries about privacy and hastily written software.</description>
+      <dc:creator>Jennifer Valentino-DeVries, Natasha Singer and Aaron Krolik</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 14:32:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burgum, Douglas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karnataka (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Dakota</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/multimedia/00virus-cellphoneapps-promo/00virus-cellphoneapps-promo-moth-v3.jpg" width="151"/>
+      <media:credit>Catherine Lai/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Singapore’s app uses Bluetooth to identify nearby phones, and the information is stored on the phones unless a person tests positive for the virus and agrees to share the data with contact tracers.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Antibody Test: What You Need to Know</title>
+      <link>https://www.nytimes.com/article/antibody-test-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/antibody-test-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/article/antibody-test-coronavirus.html" rel="standout"/>
+      <description>Our ability to test for coronavirus antibodies is growing, but what we can do with that information is still limited.</description>
+      <dc:creator>Tim Herrera</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 20:51:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quest Diagnostics Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Laboratory Corporation of America Holdings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/smarter-living/29sl-coronavirus-antibodytest2/29sl-coronavirus-antibodytest2-moth.jpg" width="151"/>
+      <media:credit>John G Mabanglo/EPA, via Shutterstock</media:credit>
+      <media:description>A health care worker taking a blood sample for an antibody test in Bolinas, Calif.</media:description>
+    </item>
+    <item>
+      <title>New Coronavirus Test Offers Advantages: Just Spit and Wait</title>
+      <link>https://www.nytimes.com/2020/04/29/health/coronavirus-saliva-spit-tests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/health/coronavirus-saliva-spit-tests.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/health/coronavirus-saliva-spit-tests.html" rel="standout"/>
+      <description>Saliva tests like the one developed by Rutgers are less painful for patients and less risky to medical workers.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:55:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rutgers, The State University of New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yale University</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/science/29VIRUS-SPIT1/merlin_171619488_54442053-5de8-42f1-aff2-391278f08cad-moth.jpg" width="151"/>
+      <media:credit>Eduardo Munoz/Reuters</media:credit>
+      <media:description>Health workers administered a new saliva-based test for coronavirus in Edison, N.J., on April 15. </media:description>
+    </item>
+    <item>
+      <title>The Vinyl? It’s Pricey. The Sound? Otherworldly.</title>
+      <link>https://www.nytimes.com/2020/04/28/arts/music/electric-recording-co-vinyl.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/arts/music/electric-recording-co-vinyl.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/arts/music/electric-recording-co-vinyl.html" rel="standout"/>
+      <description>The Electric Recording Co. in London cuts albums the way they were made in the 1950s and ’60s — literally.</description>
+      <dc:creator>Ben Sisario</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 14:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Electric Recording Co, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hutchison, Pete (Entrepreneur)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/arts/28vinyl1-promo/28vinyl1-promo-moth-v3.jpg" width="151"/>
+      <media:credit>Tom Jamieson for The New York Times</media:credit>
+      <media:description>Pete Hutchison, the founder of the Electric Recording Co. label, inspecting a master disc on the record-cutting lathe.</media:description>
+    </item>
+    <item>
+      <title>Remdesivir, Coronavirus, Met Gala: Your Wednesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2020/04/29/briefing/remdesivir-coronavirus-met-gala.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/briefing/remdesivir-coronavirus-met-gala.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/briefing/remdesivir-coronavirus-met-gala.html" rel="standout"/>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <dc:creator>Remy Tumin and Elijah Walker</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:31:52 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/briefing/29evening-briefing-promo/29evening-briefing-slide-Y6I1-moth.jpg" width="151"/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Modern Love Podcast: Daisy Edgar-Jones Reads ‘Years Ago, My Sister Vanished. I See Her Whenever I Want.’</title>
+      <link>https://www.nytimes.com/2020/04/29/style/modern-love-podcast-daisy-edgar-jones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/style/modern-love-podcast-daisy-edgar-jones.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/style/modern-love-podcast-daisy-edgar-jones.html" rel="standout"/>
+      <description>The “Normal People” star reads an essay about the benefits and detriments of legacies online.</description>
+      <pubDate>Wed, 29 Apr 2020 20:55:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parents Magazine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rooney, Sally (Author)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edgar-Jones, Daisy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/05/27/fashion/05MODERNLOVE/05MODERNLOVE-moth.jpg" width="151"/>
+      <media:credit>Brian Rea</media:credit>
+    </item>
+    <item>
+      <title>Should There Be Deals During a Pandemic?</title>
+      <link>https://www.nytimes.com/2020/04/29/business/dealbook/coronavirus-merger-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/business/dealbook/coronavirus-merger-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/business/dealbook/coronavirus-merger-ban.html" rel="standout"/>
+      <description>Elizabeth Warren and Alexandria Ocasio-Cortez escalated a Washington pushback against M.&amp;A., introducing a bill to block many corporate acquisitions.</description>
+      <pubDate>Wed, 29 Apr 2020 11:44:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stock Buybacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnuchin, Steven T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/business/29db-newsletter-deals/merlin_168486180_e5f17a8d-f495-485e-87c3-8f4e9631c602-moth.jpg" width="151"/>
+      <media:credit>Samuel Corum/Getty Images</media:credit>
+      <media:description>Representative Alexandria Ocasio-Cortez in February.</media:description>
+    </item>
+    <item>
+      <title>Sign Up: ‘Watching’</title>
+      <link>https://www.nytimes.com/newsletters/watching</link>
+      <guid isPermaLink="true">https://www.nytimes.com/newsletters/watching</guid>
+      <atom:link href="https://www.nytimes.com/newsletters/watching" rel="standout"/>
+      <description>Get recommendations on the best TV shows and movies to watch.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republicans Are Still Behind Trump</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/republicans-trump-bleach.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/republicans-trump-bleach.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/republicans-trump-bleach.html" rel="standout"/>
+      <description>Is the Republican indulgence of the president bottomless?</description>
+      <dc:creator>Frank Bruni</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 16:17:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29bruninewsletter3/merlin_170746473_bb39374f-c192-4063-a15b-b1ccbbac6b79-moth.jpg" width="151"/>
+      <media:credit>Alex Wong/Getty Images</media:credit>
+      <media:description>Lindsey Graham epitomizes the way Republicans in Congress have enabled President Trump.</media:description>
+    </item>
+    <item>
+      <title>Why Zoom Is Terrible</title>
+      <link>https://www.nytimes.com/2020/04/29/sunday-review/zoom-video-conference.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/sunday-review/zoom-video-conference.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/sunday-review/zoom-video-conference.html" rel="standout"/>
+      <description>There’s a reason video apps make you feel awkward and unfulfilled.</description>
+      <dc:creator>Kate Murphy</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/03/opinion/sunday/03murphy-sub/03murphy-sub-moth.jpg" width="151"/>
+      <media:credit>Tim Lahan</media:credit>
+    </item>
+    <item>
+      <title>At Least 89 Coronavirus Vaccines Are Being Developed. It May Not Matter.</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/coronavirus-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/coronavirus-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/coronavirus-vaccine.html" rel="standout"/>
+      <description>A coronavirus vaccine won’t stop the pandemic without all countries having access to it.</description>
+      <dc:creator>Seth Berkley</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:18:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gavi, the Vaccine Alliance</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29Berkley1/29Berkley1-moth.jpg" width="151"/>
+      <media:credit>Mohammad Ponir Hossain/Reuters</media:credit>
+      <media:description>Rickshaw pullers who were halted temporarily by the police to reduce transport in Dhaka, Bangladesh, on April 20.</media:description>
+    </item>
+    <item>
+      <title>Is Justin Amash a Threat to Biden or to Trump?</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/justin-amash-president.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/justin-amash-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/justin-amash-president.html" rel="standout"/>
+      <description>Democrats shouldn’t freak out just yet. It’s just as likely that in November he could hurt the president.</description>
+      <dc:creator>Liz Mair</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:15:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third-Party Politics (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 1992</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libertarianism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arab-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Libertarian Party (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amash, Justin (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29mairWeb/29mairWeb-moth.jpg" width="151"/>
+      <media:credit>Jonathan Ernst/Reuters</media:credit>
+      <media:description>Justin Amash at the Capitol in 2019.</media:description>
+    </item>
+    <item>
+      <title>You Don’t Have to Emerge From Quarantine a Beautiful Butterfly</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/coronavirus-quarantine-makeover.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/coronavirus-quarantine-makeover.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/coronavirus-quarantine-makeover.html" rel="standout"/>
+      <description>Here’s a chill, no-frills, take-it-or-leave-it guide on how to distract yourself in a pandemic — without home gyms, heavy reading or juice cleanses.</description>
+      <dc:creator>Eve Peyser</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 19:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeGeneres, Ellen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/sunday/29Peyser/29Peyser-moth.jpg" width="151"/>
+      <media:credit>Alex Kiesling</media:credit>
+    </item>
+    <item>
+      <title>How Sweden Is Dealing With the Coronavirus</title>
+      <link>https://www.nytimes.com/2020/04/28/opinion/coronavirus-sweden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/opinion/coronavirus-sweden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/opinion/coronavirus-sweden.html" rel="standout"/>
+      <description>The Swedes aren’t battling the coronavirus with broad lockdowns.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 14:37:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/opinion/28friedman1/28friedman1-moth.jpg" width="151"/>
+      <media:credit>Anders Wiklund/TT News Agency, via Associated Press</media:credit>
+      <media:description>A park in Stockholm last week.</media:description>
+    </item>
+    <item>
+      <title>The Coronavirus Means Remote Funerals and Virtual Comfort Must Do</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/coronavirus-funerals-mourning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/coronavirus-funerals-mourning.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/coronavirus-funerals-mourning.html" rel="standout"/>
+      <description>Readers talk about mourning loved ones from afar.</description>
+      <dc:creator>Rachel L. Harris, Susan Mermelstein and Lisa Tarchak</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 19:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/01/opinion/01opreaders-mourning2/01opreaders-mourning2-moth.jpg" width="151"/>
+      <media:credit>Andrew Lichtenstein/Corbis, via Getty Images</media:credit>
+      <media:description>A family sits shiva remotely on Zoom for an elderly relative who died of heart failure in New Canaan, Conn.</media:description>
+    </item>
+    <item>
+      <title>The Coronavirus Stimulus Package Is a Mess</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/coronavirus-stimulus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/coronavirus-stimulus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/coronavirus-stimulus.html" rel="standout"/>
+      <description>Congress gets an A+ for speed but a B- for quality.</description>
+      <dc:creator>Steven Rattner</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 20:59:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29Rattner2/29Rattner2-moth.jpg" width="151"/>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+      <media:description>A closed restaurant along the River Walk in San Antonio, Texas, on Tuesday. Thousands of small businesses seeking coronavirus relief loans have hit a bottleneck at the Small Business Administration.</media:description>
+    </item>
+    <item>
+      <title>What Is Making You Stay at Home Right Now?</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/coronavirus-ethics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/coronavirus-ethics.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/coronavirus-ethics.html" rel="standout"/>
+      <description>Our obligations to one another won’t end when this crisis does.</description>
+      <dc:creator>Todd May</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 12:46:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29stoneemay/29stoneemay-moth.jpg" width="151"/>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>Social distancing at a park in Queens, NY.</media:description>
+    </item>
+    <item>
+      <title>Who’s Profiting From the Coronavirus Crisis?</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/coronavirus-hedge-funds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/coronavirus-hedge-funds.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/coronavirus-hedge-funds.html" rel="standout"/>
+      <description>Amid an economic catastrophe, a few billionaires are still winning.</description>
+      <dc:creator>William D. Cohan</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 14:25:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ackman, William A</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29cohan2/29cohan2-moth.jpg" width="151"/>
+      <media:credit>Richard Brian/Reuters</media:credit>
+      <media:description>Bill Ackman, chief executive of the hedge fund Pershing Square Capital Management, made a $2.6 billion profit with an exquisitely timed bet on debt.</media:description>
+    </item>
+    <item>
+      <title>Teachers, Do Children’s ZIP Codes Determine Their Destiny?</title>
+      <link>https://www.nytimes.com/2020/04/29/opinion/teaching-inequality-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/opinion/teaching-inequality-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/opinion/teaching-inequality-us.html" rel="standout"/>
+      <description>If you teach in a U.S. city, we want to hear from you.</description>
+      <dc:creator>The New York Times Opinion</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:49:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/opinion/29awnWeb/29awnWeb-moth.jpg" width="151"/>
+      <media:credit>Elizabeth D. Herman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Some Professional Dancers Let It Go on TikTok: 'Is This the Future?'</title>
+      <link>https://www.nytimes.com/2020/04/29/arts/dance/tiktok-dance-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/arts/dance/tiktok-dance-challenges.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/arts/dance/tiktok-dance-challenges.html" rel="standout"/>
+      <description>Low pressure, low stakes, low toil: Professional dancers with time on their hands are learning the pleasures of TikTok challenges.</description>
+      <dc:creator>Siobhan Burke</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:40:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crousillat, Marc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kochetkova, Maria (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walsh, Gillian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cloud, Maggie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lall, Erica</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/03/arts/03dance-tiktok-1/03dance-tiktok-1-moth.jpg" width="151"/>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <media:description>Emma Lutz-Higgins and Meghan Herzfeld, Brooklyn roommates and dance collaborators, on their rooftop, rehearsing and recording the J. Lo Super Bowl challenge. &amp;ldquo;This is about me performing for you, and I don&amp;rsquo;t have to pretend that I&amp;rsquo;m not,&amp;rdquo; Ms. Lutz-Higgins said. &amp;ldquo;It&amp;rsquo;s all just out in the open. It&amp;rsquo;s kind of weirdly liberating.&amp;rdquo;</media:description>
+    </item>
+    <item>
+      <title>A Father’s Love, Whether He Says Too Much or Not Enough</title>
+      <link>https://www.nytimes.com/2020/04/29/movies/fathers-a-river-runs-through-it.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/movies/fathers-a-river-runs-through-it.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/movies/fathers-a-river-runs-through-it.html" rel="standout"/>
+      <description>In “A River Runs Through It,” a loving patriarch can’t find the words to rescue his wayward boy. Years later, another dad sees words as the best way to help his son.</description>
+      <dc:creator>Anthony Tommasini</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 14:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maclean, Norman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A River Runs Through It (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+    </item>
+    <item>
+      <title>I Don’t Want to Be a Fun Mom</title>
+      <link>https://www.nytimes.com/2020/04/29/parenting/fun-parent.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/parenting/fun-parent.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/parenting/fun-parent.html" rel="standout"/>
+      <description>It’s OK to hate capture the flag.</description>
+      <dc:creator>Jessica Grose</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:46:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+    </item>
+    <item>
+      <title>N.C.A.A. Outlines Plan to Let Athletes Make Endorsement Deals</title>
+      <link>https://www.nytimes.com/2020/04/29/sports/ncaabasketball/ncaa-athlete-endorsements.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/sports/ncaabasketball/ncaa-athlete-endorsements.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/sports/ncaabasketball/ncaa-athlete-endorsements.html" rel="standout"/>
+      <description>The changes, with some big restrictions, would go into effect at the start of the 2021-22 academic year, after consideration and adoption by the three divisions of college sports.</description>
+      <dc:creator>Billy Witz</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 23:29:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emmert, Mark</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/sports/29ncaa-endorsements/merlin_171298581_e41afec6-453c-4efb-8df9-3ecbce8ae33e-moth.jpg" width="151"/>
+      <media:credit>David J. Phillip/Associated Press</media:credit>
+      <media:description>The N.C.A.A. outlined new rules by which athletes could be paid for endorsements, social media deals and other uses of their fame. The rules would take effect at the start of the 2021-22 academic year.</media:description>
+    </item>
+    <item>
+      <title>As Fighting Surges, Yemen Is Hit With 1st Cluster of Covid-19 Infections</title>
+      <link>https://www.nytimes.com/2020/04/29/world/middleeast/yemen-saudi-coronavirus-cholera.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/world/middleeast/yemen-saudi-coronavirus-cholera.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/world/middleeast/yemen-saudi-coronavirus-cholera.html" rel="standout"/>
+      <description>A handful of coronavirus cases in Aden appeared to confirm fears that the virus has been spreading, stoking concerns of an outbreak that could quickly overwhelm Yemen’s devastated health system.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:47:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aden (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/sports/29yemen-1/29yemen-1-moth.jpg" width="151"/>
+      <media:credit>Khaled Abdullah/Reuters</media:credit>
+      <media:description>A worker fumigates a residential area in the battle against the coronavirus on the outskirts of Sana, Yemen’s capital.</media:description>
+    </item>
+    <item>
+      <title>Facebook Points to ‘Signs of Stability’ as Ad Declines Flatten</title>
+      <link>https://www.nytimes.com/2020/04/29/technology/facebook-earnings-advertising-virus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/technology/facebook-earnings-advertising-virus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/technology/facebook-earnings-advertising-virus.html" rel="standout"/>
+      <description>The company reported rising revenue and profit in the first quarter and said it was also saving on expenses.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:08:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/business/29facebook/29facebook-moth.jpg" width="151"/>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>“I’ve always believed that in times of economic downturn, it’s important to keep investing,” Mark Zuckerberg, Facebook’s chief executive, said on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Navy Secretary Orders Deeper Inquiry Into Coronavirus-Stricken Ship</title>
+      <link>https://www.nytimes.com/2020/04/29/us/politics/navy-coronavirus-ship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/us/politics/navy-coronavirus-ship.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/us/politics/navy-coronavirus-ship.html" rel="standout"/>
+      <description>The investigation delays a decision on whether to reinstate the captain of the aircraft carrier Roosevelt, Brett E. Crozier, who has assumed the role of an unlikely hero.</description>
+      <dc:creator>Eric Schmitt and Helene Cooper</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 22:30:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">USS Theodore Roosevelt (CVN-71) (Ship)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crozier, Brett E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Esper, Mark T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milley, Mark A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modly, Thomas B</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/us/politics/29dc-virus-roosevelt/29dc-virus-roosevelt-moth.jpg" width="151"/>
+      <media:credit>Tony Azios/Agence France-Presse — Getty Images</media:credit>
+      <media:description>It is unclear who will be at the Theodore Roosevelt’s helm as its crew prepares to leave its weekslong quarantine in Guam.</media:description>
+    </item>
+    <item>
+      <title>Video Shows California Boy, 14, Being Punched by Police Officer</title>
+      <link>https://www.nytimes.com/2020/04/29/us/rancho-cordova-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/us/rancho-cordova-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/us/rancho-cordova-police.html" rel="standout"/>
+      <description>The police in Rancho Cordova, Calif., and the Sacramento County Sheriff’s Department are investigating the incident, which was captured in a video that was widely shared on social media.</description>
+      <dc:creator>Christine Hauser</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 17:39:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sacramento County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/29/multimedia/29xp-california/29xp-california-moth.jpg" width="151"/>
+      <media:credit>Sacramento County Sheriff's Department, via Associated Press</media:credit>
+      <media:description>A video of the incident made the rounds on social media in posts that accused the officer, who is white, of using excessive force on a youth of color who was carrying a cigar.</media:description>
+    </item>
+    <item>
+      <title>‘This Isn’t the Time for Caviar’: A Chef Finds New Flavors in a Pandemic</title>
+      <link>https://www.nytimes.com/2020/04/29/world/asia/coronavirus-thailand-restaurants-migrants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/world/asia/coronavirus-thailand-restaurants-migrants.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/world/asia/coronavirus-thailand-restaurants-migrants.html" rel="standout"/>
+      <description>After the coronavirus lockdown, a chef in Bangkok and his migrant staff started cooking a whole new menu and delivering food to the poor.</description>
+      <dc:creator>Hannah Beech</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:58:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian Food (Cuisine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Non-Agriculture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deepanker Khosla</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Haoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/world/00virus-chef1/merlin_171360933_e2ac527a-dc4e-4567-b314-033addc5adad-moth.jpg" width="151"/>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <media:description>The chef of the high-end Haoma restaurant, Deepanker Khosla, center, preparing meals with his Burmese migrant worker cooks, to be handed out to migrants in Bangkok.</media:description>
+    </item>
+    <item>
+      <title>Trump Appointees Manipulated Agency’s Payday Lending Research, Ex-Staffer Claims</title>
+      <link>https://www.nytimes.com/2020/04/29/business/cfpb-payday-loans-rules.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/business/cfpb-payday-loans-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/business/cfpb-payday-loans-rules.html" rel="standout"/>
+      <description>A former economist at the Consumer Financial Protection Bureau accused Trump appointees of steering the bureau’s reversal on payday lending rules to gut a key provision.</description>
+      <dc:creator>Nicholas Confessore and Stacy Cowley</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 19:04:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Payday Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Consumer Financial Protection Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Financial Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kraninger, Kathy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulvaney, Mick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jonathan Lanning</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/business/28payday1/28payday1-moth.jpg" width="151"/>
+      <media:credit>Alex Wong/Getty Images</media:credit>
+      <media:description>Kathleen Kraninger, director of the Consumer Financial Protection Bureau, during her confirmation hearing in 2018.</media:description>
+    </item>
+    <item>
+      <title>Irrfan Khan, Bollywood Star at Home in Hollywood, Dies at 53</title>
+      <link>https://www.nytimes.com/2020/04/29/movies/irrfan-khan-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/movies/irrfan-khan-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/movies/irrfan-khan-dead.html" rel="standout"/>
+      <description>Mr. Khan, whose films include “The Namesake,” “Life of Pi” and “Slumdog Millionaire,” was comfortable in both mainstream and art-house roles.</description>
+      <dc:creator>Shalini Venugopal Bhagat</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 20:42:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Irrfan Khan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/world/30khan-1/29khan-moth.jpg" width="151"/>
+      <media:credit>Chad Batka for The New York Times</media:credit>
+      <media:description>The actor Irrfan Khan in New York in 2012. He found critical and commercial success with roles in Hollywood movies like &amp;ldquo;Slumdog Millionaire&amp;rdquo; and &amp;ldquo;Life of Pi.&amp;rdquo;</media:description>
+    </item>
+    <item>
+      <title>Bridge Was Their Passion. Then People Started to Die.</title>
+      <link>https://www.nytimes.com/2020/04/29/us/coronavirus-bridge-colorado-springs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/us/coronavirus-bridge-colorado-springs.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/us/coronavirus-bridge-colorado-springs.html" rel="standout"/>
+      <description>A bridge club was a social draw for scores of older Coloradans. Now, with four members dead from the virus, its future is unclear.</description>
+      <dc:creator>Jack Healy</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:11:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridge (Card Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organizations, Societies and Clubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado Springs (Colo)</category>
+    </item>
+    <item>
+      <title>How to Stay Optimistic When Everything Seems Wrong</title>
+      <link>https://www.nytimes.com/2020/04/29/smarter-living/coronavirus-how-to-stay-optimistic-.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/smarter-living/coronavirus-how-to-stay-optimistic-.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/smarter-living/coronavirus-how-to-stay-optimistic-.html" rel="standout"/>
+      <description>Optimism isn’t about ignoring negative feelings. It’s about being hopeful about the future, even when the present seems wholly negative.</description>
+      <dc:creator>Kristin Wong</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 12:18:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Optimism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marston, Stephanie</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/06/smarter-living/00sl-optimistic-crisis/00sl-optimistic-crisis-moth.jpg" width="151"/>
+      <media:credit>Jack Taylor</media:credit>
+    </item>
+    <item>
+      <title>Here’s What to Trim (and What Not to Touch) From Your Budget Right Now</title>
+      <link>https://www.nytimes.com/2020/04/28/smarter-living/heres-what-to-trim-and-what-not-to-touch-from-your-budget-right-now.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/smarter-living/heres-what-to-trim-and-what-not-to-touch-from-your-budget-right-now.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/smarter-living/heres-what-to-trim-and-what-not-to-touch-from-your-budget-right-now.html" rel="standout"/>
+      <description>Your finances may be tight, but there are helpful changes you can make during the coronavirus lockdown.</description>
+      <dc:creator>Emma Pattee</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Insurance and Liability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Savings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/24/smarter-living/00sl-money-cuts-promo/00sl-money-cuts-promo-moth.jpg" width="151"/>
+      <media:credit>Little Dreams</media:credit>
+    </item>
+    <item>
+      <title>Want to Learn French? Italian? Russian? There’s No Time Like the Present</title>
+      <link>https://www.nytimes.com/2020/04/28/travel/language-instruction-apps-television-youtube.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/travel/language-instruction-apps-television-youtube.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/travel/language-instruction-apps-television-youtube.html" rel="standout"/>
+      <description>We may not be thrilled with our housebound conditions, but what better opportunity for learning a foreign language?</description>
+      <dc:creator>Stephanie Rosenbloom</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 14:46:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adult Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/03/travel/03language-learning/03language-learning-moth-v2.jpg" width="151"/>
+      <media:credit>Elenia Beretta</media:credit>
+    </item>
+    <item>
+      <title>Considering Melatonin for Sleep? Here’s a Guide to Help</title>
+      <link>https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/24/well/melatonin-sleep-aid-coronavirus.html" rel="standout"/>
+      <description>Here’s what you need to know about the pros and cons of using melatonin supplements for sleeping difficulties.</description>
+      <dc:creator>Anna Goldfarb</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 21:18:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melatonin (Hormone)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insomnia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biorhythms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/03/smarter-living/00sl-sleep-routine/00sl-sleep-routine-moth.jpg" width="151"/>
+      <media:credit>Molly Fairhurst</media:credit>
+    </item>
+    <item>
+      <title>Eight Photographers’ Pictures From Isolation</title>
+      <link>https://www.nytimes.com/2020/04/29/t-magazine/photographers-coronavirus-isolation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/29/t-magazine/photographers-coronavirus-isolation.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/29/t-magazine/photographers-coronavirus-isolation.html" rel="standout"/>
+      <description>Joel Meyerowitz, Renée Cox, Asako Narahashi and more share visual diaries of the present moment.</description>
+      <dc:creator>Meara Sharma</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 21:28:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyerowitz, Joel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosse, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soth, Alec</category>
+    </item>
+    <item>
+      <title>The Latest Indulgence in Hip-Hop Videos? Coronavirus Protection</title>
+      <link>https://www.nytimes.com/2020/04/28/arts/music/coronavirus-rap-videos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/arts/music/coronavirus-rap-videos.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/arts/music/coronavirus-rap-videos.html" rel="standout"/>
+      <description>The pandemic has engendered new ways to flex.</description>
+      <dc:creator>Jon Caramanica</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 21:15:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DaBaby (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">French Montana (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lil Wayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wave, Rod (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">YoungBoy Never Broke Again (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blueface (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Casanova (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rich Brian (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guapdad 4000 (1992- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/arts/28virus-rapvids2/28virus-rapvids2-moth.jpg" width="151"/>
+      <media:description>DaBaby wielding twin spray cans of Pledge — which, unfortunately, is not a disinfectant — in his video for “Jump” with YoungBoy Never Broke Again.</media:description>
+    </item>
+    <item>
+      <title>John Grisham Returns to Camino Island, This Time in Hurricane Season</title>
+      <link>https://www.nytimes.com/2020/04/27/books/john-grisham-camino-winds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/books/john-grisham-camino-winds.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/books/john-grisham-camino-winds.html" rel="standout"/>
+      <description>In “Camino Winds,” a bookstore owner and two other characters team up to solve a murder and the mystery behind it.</description>
+      <dc:creator>Janet Maslin</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 01:32:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grisham, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Camino Winds (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/books/28BOOKGRISHAM1/28BOOKGRISHAM1-moth-v2.png" width="151"/>
+    </item>
+    <item>
+      <title>Bec Plexus’s New Album Is a Digital Confession Booth</title>
+      <link>https://www.nytimes.com/2020/04/28/arts/music/bec-plexus-sticklip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/arts/music/bec-plexus-sticklip.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/arts/music/bec-plexus-sticklip.html" rel="standout"/>
+      <description>Listen to how four composers adapted their visions to a singer’s avant-electronica production style.</description>
+      <dc:creator>Seth Colter Walls</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 19:38:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joyce, Molly (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirsten, Amy Beth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Little, David T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">STICKLIP (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Plexus, Bec</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/30/arts/27plexus-1/27plexus-1-moth.png" width="151"/>
+      <media:credit>Xuan</media:credit>
+      <media:description>The singer Bec Plexus&amp;rsquo;s new album, &amp;ldquo;STICKLIP,&amp;rdquo; pairs her with a variety of contemporary composers.</media:description>
+    </item>
+    <item>
+      <title>A Letter From the Contents of My Bra Drawer</title>
+      <link>https://www.nytimes.com/2020/04/28/style/bras-at-home-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/style/bras-at-home-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/style/bras-at-home-coronavirus.html" rel="standout"/>
+      <description>It’s been weeks since we’ve seen each other.</description>
+      <dc:creator>Elizabeth Yuko</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 09:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lingerie and Underwear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/22/fashion/00BRAS-drawers/00BRAS-drawers-moth.jpg" width="151"/>
+      <media:credit>Dashako/iStockphoto, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Can Estrogen and Other Sex Hormones Help Men Survive Covid-19?</title>
+      <link>https://www.nytimes.com/2020/04/27/health/coronavirus-estrogen-men.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/health/coronavirus-estrogen-men.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/health/coronavirus-estrogen-men.html" rel="standout"/>
+      <description>Men are more likely than women to die of the coronavirus, so scientists are treating them with something women have more of: female sex hormones.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 19:39:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Estrogen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progesterone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menopause</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cedars-Sinai Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renaissance School of Medicine at Stony Brook University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/science/27virus-estrogen1/27virus-estrogen1-moth.jpg" width="151"/>
+      <media:credit>Jake Michaels for The New York Times</media:credit>
+      <media:description>Cedars-Sinai Medical Center in Los Angeles, where doctors will give a sex hormone to men sick with Covid-19.</media:description>
+    </item>
+    <item>
+      <title>Hurricanes Are Reshaping Evolution Across the Caribbean</title>
+      <link>https://www.nytimes.com/2020/04/27/science/lizards-hurricanes-toes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/science/lizards-hurricanes-toes.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/science/lizards-hurricanes-toes.html" rel="standout"/>
+      <description>A new study of lizards in countries struck by hurricanes suggests cataclysmic weather can reshape entire species.</description>
+      <dc:creator>Joshua Sokol</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 20:48:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lizards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turks and Caicos Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donihue, Colin (Biologist)</category>
+    </item>
+    <item>
+      <title>Do You Want to Die in an I.C.U.? Pandemic Makes Question All Too Real</title>
+      <link>https://www.nytimes.com/2020/04/24/health/coronavirus-icu-advanced-directives.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/24/health/coronavirus-icu-advanced-directives.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/24/health/coronavirus-icu-advanced-directives.html" rel="standout"/>
+      <description>Sobering statistics for older patients sharpen the need to draw up advanced directives for treatment and share them with their families.</description>
+      <dc:creator>Paula Span</dc:creator>
+      <pubDate>Fri, 24 Apr 2020 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Living Wills and Health Care Proxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospice Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ventilators (Medical)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/science/24SCI-SPAN-DIRECTIVES2/24SCI-SPAN-DIRECTIVES2-moth.jpg" width="151"/>
+      <media:credit>Stephen Speranza for The New York Times</media:credit>
+      <media:description>Cheryl Goldman of Valley Stream, N.Y., has emphysema and relies on supplemental oxygen. She told her son that if she contracted Covid-19 and needed a ventilator that she would refuse treatment.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus as a Reminder of the Urgency of Getting Your Vaccines</title>
+      <link>https://www.nytimes.com/2020/04/27/well/live/coronavirus-as-a-reminder-of-the-urgency-of-getting-your-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/27/well/live/coronavirus-as-a-reminder-of-the-urgency-of-getting-your-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/27/well/live/coronavirus-as-a-reminder-of-the-urgency-of-getting-your-vaccines.html" rel="standout"/>
+      <description>Even before the pandemic, many parents rejected readily available, safe and effective immunizations that can protect their children.</description>
+      <dc:creator>Jane E. Brody</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 10:37:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mumps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whooping Cough</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/28/science/28SCI-BRODYVACCINE/28SCI-BRODYVACCINE-moth-v2.jpg" width="151"/>
+      <media:credit>Gracia Lam</media:credit>
+    </item>
+    <item>
+      <title>Peru’s Queen of Quechua Rap Wants to Rescue Indigenous Culture With Her Music</title>
+      <link>https://www.nytimes.com/2020/04/28/world/americas/peru-indigenous-rap-renata-flores.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/world/americas/peru-indigenous-rap-renata-flores.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/world/americas/peru-indigenous-rap-renata-flores.html" rel="standout"/>
+      <description>Renata Flores, 19, is part of a generation of Peruvian musicians combining the bouncing beats of Latin trap, rap and reggaeton with the sounds, and language, of the Andean countryside.</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 01:30:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quechua Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Incas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andes Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores, Renata (Singer)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/23/world/00peru-indigenous-02/00peru-indigenous-02-moth-v2.jpg" width="151"/>
+      <media:credit>Celia D. Luna</media:credit>
+      <media:description>Renata Flores is part of a new generation of artists producing contemporary music in Quechua, the language of her ancestors.</media:description>
+    </item>
+    <item>
+      <title>De Blasio Breaks Up Rabbi’s Funeral and Lashes Out Over Virus Distancing</title>
+      <link>https://www.nytimes.com/2020/04/28/nyregion/hasidic-funeral-coronavirus-de-blasio.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/nyregion/hasidic-funeral-coronavirus-de-blasio.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/nyregion/hasidic-funeral-coronavirus-de-blasio.html" rel="standout"/>
+      <description>After overseeing the dispersal of hundreds of Hasidic mourners in Brooklyn, Mayor Bill de Blasio called the gathering “absolutely unacceptable.”</description>
+      <dc:creator>Liam Stack</dc:creator>
+      <pubDate>Wed, 29 Apr 2020 17:11:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Williamsburg (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hasidism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/05/28/nyregion/28nyvirus-hasidic01/28nyvirus-hasidic01-moth-v2.jpg" width="151"/>
+      <media:credit>Todd Maisel</media:credit>
+      <media:description>Mourners at a rabbi’s funeral in the Williamsburg area of Brooklyn were dispersed by police officers on Tuesday night. Members of the Hasidic safety patrol, known as shomrim, were there as well.</media:description>
+    </item>
+    <item>
+      <title>Let the Sunshine In</title>
+      <link>https://www.nytimes.com/2020/04/28/well/live/coronavirus-sunlight-uv-stress-mood-immune-system-vitamin-D.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/28/well/live/coronavirus-sunlight-uv-stress-mood-immune-system-vitamin-D.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/28/well/live/coronavirus-sunlight-uv-stress-mood-immune-system-vitamin-D.html" rel="standout"/>
+      <description>Sunlight is not a cure for coronavirus, but it does have other benefits for mind and body.</description>
+      <dc:creator>Richard Schiffman</dc:creator>
+      <pubDate>Tue, 28 Apr 2020 12:58:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultraviolet Light</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vitamins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vitamin D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biorhythms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lighting</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/27/well/well-sunshine/well-sunshine-moth.jpg" width="151"/>
+      <media:credit>Juan Arredondo for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Try Tiles</title>
+      <link>https://www.nytimes.com/puzzles/tiles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/tiles</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/tiles" rel="standout"/>
+      <description>Our soothing matching game may help you de-stress.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 14:41:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/tiles-logo-nytgames-hi-res/tiles-logo-nytgames-hi-res-moth.jpg" width="151"/>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Crossword, Vertex and More</title>
+      <link>https://www.nytimes.com/crosswords</link>
+      <guid isPermaLink="true">https://www.nytimes.com/crosswords</guid>
+      <atom:link href="https://www.nytimes.com/crosswords" rel="standout"/>
+      <description>Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 14:41:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth.jpg" width="151"/>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Try Spelling Bee</title>
+      <link>https://www.nytimes.com/puzzles/spelling-bee</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/spelling-bee</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/spelling-bee" rel="standout"/>
+      <description>Puzzle throughout the day to see how many words you can find.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 27 Apr 2020 14:41:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-moth.jpg" width="151"/>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    -->
+  </channel>
+</rss>

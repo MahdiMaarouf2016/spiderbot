@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1480ba-1c7f-41f2-9587-d5f40caf3eb4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scraperbot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spiders/rsschannels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spiders/websites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/MySQL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spiders/urlparser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret column="17" selection-start-column="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rsschannels_spider_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#412#809#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/tests/test_sqlite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/SqlLite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="89" column="42" lean-forward="true" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/websites_spider_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>subTitle</find>
+      <find>media_status_node</find>
+      <find>media_thumbnails</find>
+      <find>media_price</find>
+      <find>mediaprice</find>
+      <find>mediarightsstatus</find>
+      <find>media_scenes</find>
+      <find>thum</find>
+      <find>price</find>
+      <find>embed</find>
+      <find>\n</find>
+      <find>medialicense</find>
+      <find>licence</find>
+      <find>media_license</find>
+      <find>creativeCommo</find>
+      <find>license</find>
+      <find>slash</find>
+      <find>creativeCommons</find>
+      <find>mediarights</find>
+      <find>VARCHAR</find>
+      <find>ret</find>
+      <find>%s</find>
+      <find>,</find>
+      <find>p</find>
+      <find>pub</find>
+      <find>isoformat</find>
+      <find>pubDate</find>
+      <find>HELLLO</find>
+      <find>print</find>
+      <find>Request</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace />
+      <replace>,&quot;data&quot;:</replace>
+      <replace>,data['</replace>
+      <replace>+ &quot;,&quot; +</replace>
+      <replace>object</replace>
+      <replace>sd</replace>
+      <replace>=</replace>
+      <replace>:str=&quot;&quot;,</replace>
+      <replace>,self.</replace>
+      <replace>&quot;],object[&quot;</replace>
+      <replace>%s</replace>
+      <replace>selector.css(&quot;media</replace>
+      <replace>_</replace>
+      <replace>= str</replace>
+      <replace>&quot;&quot;</replace>
+      <replace>&quot;{}&quot;</replace>
+      <replace>&quot;],</replace>
+      <replace>,</replace>
+      <replace>VARCHAR(200)</replace>
+      <replace>%s,</replace>
+      <replace>),</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spiders/rss_spider.py" />
+        <option value="$PROJECT_DIR$/Spiders/Rss.py" />
+        <option value="$PROJECT_DIR$/Spiders/feedscontent.py" />
+        <option value="$PROJECT_DIR$/txt.html" />
+        <option value="$PROJECT_DIR$/DataBase/__init__.py" />
+        <option value="7b08a5f9-682a-40c7-84d0-b2ba04e9612c/consoles/Connection" />
+        <option value="$PROJECT_DIR$/test.json" />
+        <option value="$PROJECT_DIR$/Dataset/test2.json" />
+        <option value="$PROJECT_DIR$/Dataset/output1.txt" />
+        <option value="$PROJECT_DIR$/Dataset/output1.json" />
+        <option value="$PROJECT_DIR$/Dataset/mysql_table_domains.sql" />
+        <option value="$PROJECT_DIR$/Spiders/urlparser.py" />
+        <option value="$PROJECT_DIR$/brush.txt" />
+        <option value="$PROJECT_DIR$/Spiders/broadcastedspiders.py" />
+        <option value="$PROJECT_DIR$/Spiders/broadcastedspider.py" />
+        <option value="$PROJECT_DIR$/Spiders/__init__.py" />
+        <option value="$PROJECT_DIR$/Dataset/output2.txt" />
+        <option value="$PROJECT_DIR$/Dataset/output2.json" />
+        <option value="$PROJECT_DIR$/DataBase/items.py" />
+        <option value="$PROJECT_DIR$/DataBase/tests/mysqltest.py" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_storage/domain.html" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_storage/internal.html" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_storage/test_rss_channels.py" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_storage/external.html" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_storage/rsschannel.xml" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_storage/rsscases.xml" />
+        <option value="$PROJECT_DIR$/edit.txt" />
+        <option value="$PROJECT_DIR$/trash.json" />
+        <option value="$PROJECT_DIR$/items.py" />
+        <option value="$PROJECT_DIR$/trash2.json" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_rss_channels.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Thread.py" />
+        <option value="$PROJECT_DIR$/Spiders/tests/test_websites.py" />
+        <option value="$PROJECT_DIR$/trash.txt" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Spiders/websites.py" />
+        <option value="$PROJECT_DIR$/DataBase/tests/test_mysql.py" />
+        <option value="$PROJECT_DIR$/DataBase/tests/test_sqlite.py" />
+        <option value="$PROJECT_DIR$/DataBase/SqlLite.py" />
+        <option value="$PROJECT_DIR$/Spiders/rsschannels.py" />
+        <option value="$PROJECT_DIR$/websites_spider_runner.py" />
+        <option value="$PROJECT_DIR$/rsschannels_spider_runner.py" />
+        <option value="$PROJECT_DIR$/DataBase/MySQL.py" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scraperbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scraperbot2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scraperbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scraperbot2" type="462c0819:PsiDirectoryNode" />
+              <item name="Storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="android.sdk.path" value="C:/Android_Configuration/SDK" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588948731146" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/websites_spider_runner.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Developpement\Applications\Web\feedspider\scraperbot2\Spiders\tests" />
+      <recent name="D:\Developpement\Applications\Web\feedspider\scraperbot2\Spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Developpement\Applications\Web\feedspider\scraperbot2\DataBase\tests\test_storage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_sqlite.test__mysql.test_select_rss_channels">
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Med_Mahdi_Maarouf\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Med_Mahdi_Maarouf\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rsschannels_spider_runner" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Med_Mahdi_Maarouf\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rsschannels_spider_runner.py" />
+      <option name="PARAMETERS" value="&quot;https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml&quot; &quot;https://rss.nytimes.com/services/xml/rss/nyt/es.xml&quot; &quot;https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Med_Mahdi_Maarouf\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="websites_spider_runner" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Med_Mahdi_Maarouf\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/websites_spider_runner.py" />
+      <option name="PARAMETERS" value="https://nytimes.com https://nytco.com" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_rss_channels.rss_channel_spiderTest.test_spider_parse_channel" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spiders/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_rss_channels.rss_channel_spiderTest.test_spider_parse_channel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_sqlite.test__mysql.test_select_domains" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataBase/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sqlite.test__mysql.test_select_domains&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_sqlite.test__mysql.test_select_rss_channels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataBase/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sqlite.test__mysql.test_select_rss_channels&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_websites.websites_spider_test.test_parsewebsite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="scraperbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spiders/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_websites.websites_spider_test.test_parsewebsite&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.websites_spider_runner" />
+      <item itemvalue="Python.items" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.rsschannels_spider_runner" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python tests.Unittests for test_rss_channels.rss_channel_spiderTest.test_spider_parse_channel" />
+      <item itemvalue="Python tests.Unittests for test_websites.websites_spider_test.test_parsewebsite" />
+      <item itemvalue="Python tests.Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" />
+      <item itemvalue="Python tests.Unittests for test_sqlite.test__mysql.test_select_domains" />
+      <item itemvalue="Python tests.Unittests for test_sqlite.test__mysql.test_select_rss_channels" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_sqlite.test__mysql.test_select_rss_channels" />
+        <item itemvalue="Python tests.Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" />
+        <item itemvalue="Python tests.Unittests for test_sqlite.test__mysql.test_select_domains" />
+        <item itemvalue="Python tests.Unittests for test_websites.websites_spider_test.test_parsewebsite" />
+        <item itemvalue="Python tests.Unittests for test_rss_channels.rss_channel_spiderTest.test_spider_parse_channel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SQLiteDataSourceStorage">
+    <local-data-sources>
+      <data-source>
+        <option name="databaseName" value="localdb.db" />
+        <option name="filePath" value="D:\Developpement\Applications\Web\feedspider\scraperbot2\Storage\localdb.db" />
+        <option name="name" value="sqlite_scrapper" />
+      </data-source>
+    </local-data-sources>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1480ba-1c7f-41f2-9587-d5f40caf3eb4" name="Default Changelist" comment="" />
+      <created>1588164148587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588164148587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 34m 59s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 35m 21s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 36m 05s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 37m 38s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 38m 14s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 41m 01s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 41m 28s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DataBase_tests_test_mysql_test__mysql_test_insert_rsschannels - 2020.05.08 at 14h 42m 40s.xml">
+      <configuration name="Unittests for DataBase.tests.test_mysql.test__mysql.test_insert_rsschannels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_sqlite_test__mysql_test_select_rss_channels - 2020.05.08 at 14h 48m 07s.xml">
+      <configuration name="Unittests for test_sqlite.test__mysql.test_select_rss_channels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_sqlite_test__mysql_test_select_rss_channels - 2020.05.08 at 14h 48m 30s.xml">
+      <configuration name="Unittests for test_sqlite.test__mysql.test_select_rss_channels" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49445677" visible="true" weight="0.18683812" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="DB Browser" order="3" weight="0.32980332" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Project Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" sideWeight="0.49889135" weight="0.32980332" />
+      <window_info id="simpleUML" order="8" sideWeight="0.49889135" visible="true" weight="0.32980332" />
+      <window_info id="Structure" order="9" sideWeight="0.50554323" weight="0.2881997" />
+      <window_info id="Favorites" order="10" sideWeight="0.50332594" weight="0.27836612" />
+      <window_info id="JE" order="11" weight="0.32980332" />
+      <window_info anchor="bottom" id="SQL" order="0" sideWeight="0.49848714" weight="0.5335516" />
+      <window_info anchor="bottom" id="SQL Android" order="1" sideWeight="0.54765505" weight="0.72875816" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32189542" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.4977307" weight="0.3382353" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45234492" side_tool="true" weight="0.627451" />
+      <window_info anchor="bottom" id="Stack trace to UML" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.18954249" />
+      <window_info active="true" anchor="bottom" id="SQL Schema" order="15" weight="0.60784316" />
+      <window_info anchor="bottom" id="SQLite Console" order="16" weight="0.3267974" />
+      <window_info anchor="right" id="SQLite Explorer" order="0" weight="0.28139183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.23298033" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Job Explorer" order="10" sideWeight="0.72727275" visible="true" weight="0.3191801" />
+      <window_info anchor="right" id="UML design tool window" order="11" weight="0.33963692" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49445677" visible="true" weight="0.18305598" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="DB Browser" order="3" weight="0.32980332" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Project Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" sideWeight="0.49889135" weight="0.32980332" />
+      <window_info id="simpleUML" order="8" sideWeight="0.49889135" visible="true" weight="0.32980332" />
+      <window_info id="Structure" order="9" sideWeight="0.50554323" weight="0.2881997" />
+      <window_info id="Favorites" order="10" sideWeight="0.50332594" weight="0.27836612" />
+      <window_info id="JE" order="11" weight="0.32980332" />
+      <window_info anchor="bottom" id="SQL Android" order="0" weight="0.72875816" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32189542" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4977307" visible="true" weight="0.4624183" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="0.45424837" />
+      <window_info anchor="bottom" id="Stack trace to UML" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.48366013" />
+      <window_info active="true" anchor="bottom" id="SQL Schema" order="14" weight="0.60784316" />
+      <window_info anchor="bottom" id="SQLite Console" order="15" weight="0.3267974" />
+      <window_info anchor="right" id="SQLite Explorer" order="0" weight="0.28139183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SQL" order="3" sideWeight="0.49848714" weight="0.5352006" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.23298033" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Job Explorer" order="10" sideWeight="0.72727275" visible="true" weight="0.3191801" />
+      <window_info anchor="right" id="Ant Build" order="11" weight="0.24962178" />
+      <window_info anchor="right" id="UML design tool window" order="12" weight="0.33963692" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/crawler.py" />
+    <entry file="db://35c75f65-0082-4929-83f5-9469a5ed88be/consoles/feedspider" />
+    <entry file="db://7b08a5f9-682a-40c7-84d0-b2ba04e9612c/consoles/Connection" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/twisted/internet/default.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/twisted/internet/reactor.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/threading.py" />
+    <entry file="file://$PROJECT_DIR$/tarsh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="192" column="45" selection-start-line="192" selection-start-column="45" selection-end-line="192" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#article#0;n#div#0;n#main#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#article#0;n#div#0;n#main#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#7;n#article#0;n#div#0;n#main#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#7;n#article#0;n#div#0;n#main#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Storage/mysql_table_domains.sql" />
+    <entry file="file://$PROJECT_DIR$/Spiders/broadcastedspider.py" />
+    <entry file="file://$PROJECT_DIR$/Spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Storage/test2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Storage/output1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="258" column="1893" lean-forward="true" selection-start-line="258" selection-start-column="1893" selection-end-line="258" selection-end-column="1925" />
+          <folding>
+            <element signature="e#120#3492#0" />
+            <element signature="e#2668#2732#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Storage/output2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Storage/output2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21403">
+          <caret line="1259" column="3" selection-start-line="1259" selection-start-column="3" selection-end-line="1259" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Storage/localdb.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/loader.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/twisted/words/service.py" />
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_storage/domain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+          <folding>
+            <element signature="e#257#262#0" expanded="true" />
+            <element signature="e#309017#309050#0" expanded="true" />
+            <element signature="e#309395#309417#0" expanded="true" />
+            <element signature="e#309653#309765#0" expanded="true" />
+            <element signature="e#309869#309920#0" expanded="true" />
+            <element signature="e#310225#310302#0" expanded="true" />
+            <element signature="e#310340#310389#0" expanded="true" />
+            <element signature="e#338855#338880#0" expanded="true" />
+            <element signature="e#361192#361197#0" expanded="true" />
+            <element signature="e#371423#371475#0" expanded="true" />
+            <element signature="e#371988#372046#0" expanded="true" />
+            <element signature="e#397113#397140#0" expanded="true" />
+            <element signature="e#397771#397814#0" expanded="true" />
+            <element signature="e#485945#485989#0" expanded="true" />
+            <element signature="e#949160#949165#0" expanded="true" />
+            <element signature="e#952832#952837#0" expanded="true" />
+            <element signature="e#1022910#1022962#0" expanded="true" />
+            <element signature="e#1023335#1023393#0" expanded="true" />
+            <element signature="e#1031884#1031935#0" expanded="true" />
+            <element signature="e#1032284#1032342#0" expanded="true" />
+            <element signature="e#1036382#1036388#0" expanded="true" />
+            <element signature="e#1044702#1044754#0" expanded="true" />
+            <element signature="e#1045125#1045183#0" expanded="true" />
+            <element signature="e#1053586#1053638#0" expanded="true" />
+            <element signature="e#1054010#1054068#0" expanded="true" />
+            <element signature="e#1062574#1062625#0" expanded="true" />
+            <element signature="e#1062961#1063019#0" expanded="true" />
+            <element signature="e#1090476#1090528#0" expanded="true" />
+            <element signature="e#1090856#1090914#0" expanded="true" />
+            <element signature="e#1101132#1101244#0" expanded="true" />
+            <element signature="e#1101435#1101486#0" expanded="true" />
+            <element signature="e#1102621#1102641#0" expanded="true" />
+            <element signature="e#1103522#1103528#0" expanded="true" />
+            <element signature="e#1103545#1103551#1" expanded="true" />
+            <element signature="e#1106890#1106932#0" expanded="true" />
+            <element signature="e#1106972#1107127#0" expanded="true" />
+            <element signature="e#2633989#2634027#0" expanded="true" />
+            <element signature="e#2639559#2639579#0" expanded="true" />
+            <element signature="e#2648986#2649006#0" expanded="true" />
+            <element signature="e#2649401#2649421#0" expanded="true" />
+            <element signature="e#2652090#2652110#0" expanded="true" />
+            <element signature="e#2679654#2679696#0" expanded="true" />
+            <element signature="e#2682048#2682113#0" expanded="true" />
+            <element signature="e#2694449#2694471#0" expanded="true" />
+            <element signature="e#2694739#2694789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="sqlite-diagram://sqlite-diagram:/29ca8a9f/82c15894-f010-4ad7-aad4-bab43b832023" />
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_storage/external.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="1005" column="43" selection-start-line="1005" selection-start-column="39" selection-end-line="1005" selection-end-column="43" />
+          <folding>
+            <element signature="e#116977#116999#0" expanded="true" />
+            <element signature="e#127844#127899#0" expanded="true" />
+            <element signature="e#144581#144693#0" expanded="true" />
+            <element signature="e#144826#144883#0" expanded="true" />
+            <element signature="e#145244#145287#0" expanded="true" />
+            <element signature="e#145722#145771#0" expanded="true" />
+            <element signature="e#159140#159204#0" expanded="true" />
+            <element signature="e#168213#168237#0" expanded="true" />
+            <element signature="e#169343#169365#0" expanded="true" />
+            <element signature="e#174893#175041#0" expanded="true" />
+            <element signature="e#175246#175306#0" expanded="true" />
+            <element signature="e#175549#175626#0" expanded="true" />
+            <element signature="e#175680#175729#0" expanded="true" />
+            <element signature="e#194250#194398#0" expanded="true" />
+            <element signature="e#194603#194663#0" expanded="true" />
+            <element signature="e#194906#194981#0" expanded="true" />
+            <element signature="e#195035#195101#0" expanded="true" />
+            <element signature="e#218668#218780#0" expanded="true" />
+            <element signature="e#218977#219036#0" expanded="true" />
+            <element signature="e#219279#219341#0" expanded="true" />
+            <element signature="e#219776#219842#0" expanded="true" />
+            <element signature="e#230687#230721#0" expanded="true" />
+            <element signature="e#231637#231672#0" expanded="true" />
+            <element signature="e#231747#231770#0" expanded="true" />
+            <element signature="e#231952#231998#0" expanded="true" />
+            <element signature="e#232466#232501#0" expanded="true" />
+            <element signature="e#232576#232599#0" expanded="true" />
+            <element signature="e#232781#232827#0" expanded="true" />
+            <element signature="e#255277#255282#0" expanded="true" />
+            <element signature="e#265530#265535#0" expanded="true" />
+            <element signature="e#267843#267848#0" expanded="true" />
+            <element signature="e#282017#282022#0" expanded="true" />
+            <element signature="e#292932#292937#0" expanded="true" />
+            <element signature="e#304787#304793#0" expanded="true" />
+            <element signature="e#304810#304816#1" expanded="true" />
+            <element signature="e#434849#434891#0" expanded="true" />
+            <element signature="e#435516#435554#0" expanded="true" />
+            <element signature="e#437625#437667#0" expanded="true" />
+            <element signature="e#437707#437862#0" expanded="true" />
+            <element signature="e#441717#441737#0" expanded="true" />
+            <element signature="e#453587#453607#0" expanded="true" />
+            <element signature="e#481025#481067#0" expanded="true" />
+            <element signature="e#483722#483787#0" expanded="true" />
+            <element signature="e#495605#495627#0" expanded="true" />
+            <element signature="e#498755#498802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_storage/internal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="910" selection-start-line="11" selection-start-column="910" selection-end-line="11" selection-end-column="910" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#section#0;n#div#0;n#div#1;n#section#0;n#main#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="sqlite://sqlite:/29ca8a9f/82c15894-f010-4ad7-aad4-bab43b832023" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/http/response/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/parsel/selector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="140" column="4" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_storage/rsschannel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          <folding>
+            <element signature="n#image#0;n#channel#0;n#rss#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_storage/rsscases.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding>
+            <element signature="n#image#0;n#channel#0;n#rss#0;n#!!top" />
+            <element signature="n#rating#0;n#channel#0;n#rss#0;n#!!top" />
+            <element signature="n#skipDays#0;n#channel#0;n#rss#0;n#!!top" />
+            <element signature="n#skipHours#0;n#channel#0;n#rss#0;n#!!top" />
+            <element signature="n#textInput#0;n#channel#0;n#rss#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trash.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="8" column="35" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trash2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_rss_channels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/test_websites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trash.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/tests/test_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="28" selection-start-line="23" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/tests/test_sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websites_spider_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rsschannels_spider_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#412#809#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/SqlLite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="42" lean-forward="true" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/MySQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="33" lean-forward="true" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/urlparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret column="17" selection-start-column="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/rsschannels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/websites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
